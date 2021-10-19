@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: Algebra 1.
 - 💞️ I’m looking to collaborate on: Nothing right now.
 - 📫 How to reach me: Please dont.
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
 <!---
 kcoderhtml/kcoderhtml is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
