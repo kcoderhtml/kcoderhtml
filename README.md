@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Unity3d, Python3, Javascript, PHP.**
 
-- 👯 I’m looking to collaborate on **Nothing Right Now.**
-
 - ⚡ Fun fact **I Love Oatmeal!**
 
 
