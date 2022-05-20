@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm KCoderhtml</h1>
 <h3 align="center">An aspiring young developer from Jacksonville, Fl</h3>
 
-- 🔭 I’m currently working on Umbrilium
+- 🔭 I’m currently working on Umbrilium a 2d game made with Unity.
 
 - 🌱 I’m currently learning **Unity3d, Python3, C#, and 2d art.**
 
