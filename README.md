@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=railway&color=%2347793D&center=true&vCenter=true&lines=I+Love+Oatmeal+Do+You%3F;Do+you+eat+cake+for+breakfast%3F;Cake+is+good+Coding+is+better.)">
-</p>
 <h1 align="center">Hi 👋, I'm KCoderhtml</h1>
 <h3 align="center">An aspiring young developer from Jacksonville, Fl</h3>
 
