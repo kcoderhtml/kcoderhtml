@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm KCoderhtml</h1>
-<h3 align="center">An aspiring young developer from Jacksonville, Fl</h3>
+<h3 align="center">An aspiring developer in Columbus, OH</h3>
 
-- 🔭 I’m currently working on School
+- 🔭 I’m currently working on Hacktoberfest 2022
 
-- 🌱 I’m currently learning **Rust, Web Design, and SEO**
+- 🌱 I’m currently learning **Rust, Web Design, and flying fpv drones**
 
 - ⚡ Fun fact **adding +{{label}} after your username in gmail email address will add the sent email to a label of the same name created in gmail directly.**
 
