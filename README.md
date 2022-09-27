@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust, Web Design, and SEO**
 
-- ⚡ Fun fact **adding +{{label}} after your username in gmail email address will add the sent email to a label created in gmail directly.**
+- ⚡ Fun fact **adding +{{label}} after your username in gmail email address will add the sent email to a label of the same name created in gmail directly.**
 
 
 <h3 align="left">Languages and Tools:</h3>
