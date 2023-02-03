@@ -3,4 +3,4 @@
 
 - 🔭 I’m currently doing school and writing in my [blog](https://kieranklukas.com)
 
-- 🌱 I’m currently learning **Rust, Web Design, and FPV drone flying**
+- 🌱 I’m currently learning about **Web Design, and FPV drones**
