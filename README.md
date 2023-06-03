@@ -3,4 +3,4 @@
 
 - 🔭 I’m currently in school
 
-- 🌱 I’m currently learning about **Web Design, and FPV drones**
+- 🌱 I’m currently learning about **Web Design, FPV drones, the Violin, and Ham radio**
