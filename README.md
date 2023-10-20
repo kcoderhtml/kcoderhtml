@@ -5,6 +5,6 @@
 
 Hi there 👋. Welcome to my GitHub profile! My name is Kieran Klukas, and I am a 10th-grade homeschooler, digital explorer, Homelaber, Videographer, and GNU/UNIX freak.
 
-When I'm not doing school or working on a project, I enjoy takeing to the skies as an FPV (First-Person View) pilot. The thrill of soaring through the air and diving through gaps is a experience I can best descrive as pure joy. I try to capture my flights for my YouTube channel, [A Wanderer's Archives](https://youtube.com/@wanderer.archives).
+When I'm not doing school or working on a project, I enjoy takeing to the skies as an FPV (First-Person View) pilot. The thrill of soaring through the air and diving through gaps is a experience I can best descrive as pure joy. I try to capture my flights on my YouTube channel, [A Wanderer's Archives](https://youtube.com/@wanderer.archives).
 
 ![Kcoderhtml's Activity Grid](https://raw.githubusercontent.com/kcoderhtml/kcoderhtml/output/github-contribution-grid-snake.svg)
