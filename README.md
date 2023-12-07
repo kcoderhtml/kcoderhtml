@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kieran Klukas</h1>
 <h3 align="center">A digital explorer</h3>
 
-🏠 Homeschooled 10th grader | 💻 Homelaber | 🐧 Linux Enthusiast | 🔒 Privacy Advocate | 🚁 FPV Pilot | 🌐 Arc Browser Evangelist | 🌍 Open Source Enthusiast | 🎻 Violinist | 📚 Bookworm
+🏠 Homeschooled 10th grader | 💻 Homelaber | 🐧 Linux Enthusiast | 🔒 Privacy Advocate | 🚁 FPV Pilot | 🌐 Internet Aficionado | 🌍 Open Source Enthusiast | 🎻 Violinist | 📚 Bookworm
 
 Hi there 👋. Welcome to my GitHub profile! My name is Kieran Klukas, and I am a 10th-grade homeschooler, digital explorer, Homelaber, Videographer, and GNU/UNIX freak.
 
