@@ -36,6 +36,6 @@ Hi there 👋. Welcome to my GitHub profile! My name is Kieran Klukas, and I am 
 
 When I'm not doing school or working on a project, I enjoy flying drones and making videos on my YouTube channel, [A Wanderer's Archives](https://youtube.com/@wanderer.archives).
 
-My latest project's are: [#project-purplebubble](https://github.com/thepurplebubble) and [MagicSnap](https://github.com/kcoderhtml/magicsnap) # umm yeah that changes constantly just look at my latest repos i guess
+My latest project's are: [#project-purplebubble](https://github.com/thepurplebubble) and [MagicSnap](https://github.com/kcoderhtml/magicsnap) _# umm yeah that changes constantly just look at my latest repos i guess_
 
 ![Kcoderhtml's Activity Grid](https://raw.githubusercontent.com/kcoderhtml/kcoderhtml/output/github-contribution-grid-snake.svg)
