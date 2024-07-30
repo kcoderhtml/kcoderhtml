@@ -22,7 +22,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 - [fraps](https://github.com/kcoderhtml/fraps) - A spotify top tracks viewer!
 - [grolf](https://github.com/kcoderhtml/grolf) - hackclub's beloved arcade helper!
 
-#### A few of my latest videos
+#### 📺 A few of my latest videos
 
 - [Charming Slack (slack over ssh) demo](https://www.youtube.com/watch?v=A8s2hTrSAds) - (1 day ago)
 
