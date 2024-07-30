@@ -1,7 +1,7 @@
 ## GitHub Action for generating a contribution graph with a snake eating your contributions.
 ## GitHub Action для создания графика вкладов со змеей, пожирающей ваши взносы.
 
-name: generate animation
+name: generate snake animation
 
 on:
   # run automatically every 24 hours
@@ -10,13 +10,6 @@ on:
 
   # allows to manually run the job at any time
   workflow_dispatch:
-
-  # run on every push on the master branch
-  push:
-    branches:
-    - main
-
-
 
 jobs:
   generate:
