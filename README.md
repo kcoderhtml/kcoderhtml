@@ -22,6 +22,16 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 - [fraps](https://github.com/kcoderhtml/fraps) - A spotify top tracks viewer!
 - [grolf](https://github.com/kcoderhtml/grolf) - hackclub's beloved arcade helper!
 
+#### A few of my latest videos
+
+- [Charming Slack (slack over ssh) demo](https://www.youtube.com/watch?v=A8s2hTrSAds) - (1 day ago)
+
+- [obs stream test](https://www.youtube.com/watch?v=zJZ2PaQFEDw) - (1 day ago)
+
+- [What do you like making? #chill #electronics](https://www.youtube.com/watch?v=xL9Ex14aXOk) - (2 months ago)
+
+
+
 #### Contacting me?
 
 Want to hire me for a project? want to colab on something? or do you just want to say hi?
