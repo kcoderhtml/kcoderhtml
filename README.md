@@ -24,9 +24,9 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 📺 A few of my latest videos
 
-- [Charming Slack (slack over ssh) demo](https://www.youtube.com/watch?v=A8s2hTrSAds) - (1 day ago)
+- [obs stream test](https://www.youtube.com/watch?v=zJZ2PaQFEDw) - (today)
 
-- [obs stream test](https://www.youtube.com/watch?v=zJZ2PaQFEDw) - (1 day ago)
+- [Charming Slack (slack over ssh) demo](https://www.youtube.com/watch?v=A8s2hTrSAds) - (1 day ago)
 
 - [What do you like making? #chill #electronics](https://www.youtube.com/watch?v=xL9Ex14aXOk) - (2 months ago)
 
