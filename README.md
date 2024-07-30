@@ -17,10 +17,10 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 🌱 My latest projects
 
+- [led-cube](https://github.com/kcoderhtml/led-cube) - 
 - [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config
 - [slackbot-ultimate-template](https://github.com/kcoderhtml/slackbot-ultimate-template) - The ultimate slackbot template for all your slackbot needs
 - [fraps](https://github.com/kcoderhtml/fraps) - A spotify top tracks viewer!
-- [grolf](https://github.com/kcoderhtml/grolf) - hackclub's beloved arcade helper!
 
 #### 📺 A few of my latest videos
 
