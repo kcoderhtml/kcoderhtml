@@ -24,11 +24,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 📺 A few of my latest videos
 
+- [Coding Stream No 1](https://www.youtube.com/watch?v=dLwT8_Z04T8) - (today)
+
 - [Finally it (kinda) works #coding #ledcube](https://www.youtube.com/watch?v=Mfk6LF0zwZg) - (today)
 
 - [obs stream test](https://www.youtube.com/watch?v=zJZ2PaQFEDw) - (1 day ago)
-
-- [Charming Slack (slack over ssh) demo](https://www.youtube.com/watch?v=A8s2hTrSAds) - (2 days ago)
 
 
 
