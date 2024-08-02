@@ -6,8 +6,8 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 Check out what I'm currently working on
 
+- [grolf](https://github.com/kcoderhtml/grolf) - hackclub's beloved arcade helper! (today)
 - [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (1 day ago)
-- [grolf](https://github.com/kcoderhtml/grolf) - hackclub's beloved arcade helper! (1 day ago)
 - [charming-slack](https://github.com/kcoderhtml/charming-slack) - A cool slack over ssh project with a pretty bubbletea tui (1 day ago)
 - [led-cube](https://github.com/kcoderhtml/led-cube) - the future home of epic led code (2 days ago)
 - [nest](https://github.com/hackclub/nest) - Free, powerful, and versatile compute infrastructure for all high school hackers! (3 days ago)
