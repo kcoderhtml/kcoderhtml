@@ -10,7 +10,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 {{- end}}
 
 #### 🌱 My latest projects
-{{range recentPushedRepos 4}}
+{{range recentRepos 4}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
