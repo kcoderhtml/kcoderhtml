@@ -17,10 +17,10 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 🌱 My latest projects
 
-- [kcoderhtml](https://github.com/kcoderhtml/kcoderhtml) - Config files for my GitHub profile.
 - [led-matrix](https://github.com/kcoderhtml/led-matrix) - 
+- [led-cube](https://github.com/kcoderhtml/led-cube) - the future home of epic led code
 - [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config
-- [astro-site](https://github.com/kcoderhtml/astro-site) - my personal blog and site
+- [slackbot-ultimate-template](https://github.com/kcoderhtml/slackbot-ultimate-template) - The ultimate slackbot template for all your slackbot needs
 
 #### 📺 A few of my latest videos
 
