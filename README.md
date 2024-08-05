@@ -24,11 +24,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 📺 A few of my latest videos
 
+- [the little led cube that kinda could](https://www.youtube.com/watch?v=um7v7Y04vGw) - (today)
+
 - [My first FRC Robotics Competition](https://www.youtube.com/watch?v=w_o2-eqkbCk) - (2 days ago)
 
 - [Finally it (kinda) works #coding #ledcube](https://www.youtube.com/watch?v=Mfk6LF0zwZg) - (5 days ago)
-
-- [obs stream test](https://www.youtube.com/watch?v=zJZ2PaQFEDw) - (6 days ago)
 
 
 
