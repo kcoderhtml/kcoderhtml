@@ -8,8 +8,8 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 - [charming-slack](https://github.com/kcoderhtml/charming-slack) - A cool slack over ssh project with a pretty bubbletea tui (1 day ago)
 - [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (1 day ago)
-- [led-matrix](https://github.com/kcoderhtml/led-matrix) - a matrix of epic led porportions (2 days ago)
 - [lora-module](https://github.com/kcoderhtml/lora-module) -  (2 days ago)
+- [led-matrix](https://github.com/kcoderhtml/led-matrix) - a matrix of epic led porportions (2 days ago)
 - [astro-site](https://github.com/kcoderhtml/astro-site) - my personal blog and site (3 days ago)
 - [grolf](https://github.com/kcoderhtml/grolf) - hackclub's beloved arcade helper! (4 days ago)
 - [led-cube](https://github.com/kcoderhtml/led-cube) - the future home of epic led code (6 days ago)
