@@ -6,9 +6,9 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 Check out what I'm currently working on
 
-- [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (1 day ago)
-- [slack-emoji-list](https://github.com/kcoderhtml/slack-emoji-list) -  (1 day ago)
+- [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (today)
 - [charming-slack](https://github.com/kcoderhtml/charming-slack) - A cool slack over ssh project with a pretty bubbletea tui (1 day ago)
+- [slack-emoji-list](https://github.com/kcoderhtml/slack-emoji-list) -  (1 day ago)
 - [led-matrix](https://github.com/kcoderhtml/led-matrix) - a matrix of epic led porportions (3 days ago)
 - [lora-module](https://github.com/kcoderhtml/lora-module) -  (3 days ago)
 - [astro-site](https://github.com/kcoderhtml/astro-site) - my personal blog and site (4 days ago)
