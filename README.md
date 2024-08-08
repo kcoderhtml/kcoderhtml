@@ -6,14 +6,14 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 Check out what I'm currently working on
 
-- [sixel-testing](https://github.com/kcoderhtml/sixel-testing) -  (today)
-- [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (today)
-- [charming-slack](https://github.com/kcoderhtml/charming-slack) - A cool slack over ssh project with a pretty bubbletea tui (today)
-- [slack-emoji-list](https://github.com/kcoderhtml/slack-emoji-list) -  (1 day ago)
-- [led-matrix](https://github.com/kcoderhtml/led-matrix) - a matrix of epic led porportions (3 days ago)
-- [lora-module](https://github.com/kcoderhtml/lora-module) -  (3 days ago)
-- [astro-site](https://github.com/kcoderhtml/astro-site) - my personal blog and site (4 days ago)
-- [grolf](https://github.com/kcoderhtml/grolf) - hackclub's beloved arcade helper! (5 days ago)
+- [sixel-testing](https://github.com/kcoderhtml/sixel-testing) -  (1 day ago)
+- [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (1 day ago)
+- [charming-slack](https://github.com/kcoderhtml/charming-slack) - A cool slack over ssh project with a pretty bubbletea tui (1 day ago)
+- [slack-emoji-list](https://github.com/kcoderhtml/slack-emoji-list) -  (2 days ago)
+- [led-matrix](https://github.com/kcoderhtml/led-matrix) - a matrix of epic led porportions (4 days ago)
+- [lora-module](https://github.com/kcoderhtml/lora-module) -  (4 days ago)
+- [astro-site](https://github.com/kcoderhtml/astro-site) - my personal blog and site (5 days ago)
+- [grolf](https://github.com/kcoderhtml/grolf) - hackclub's beloved arcade helper! (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -24,9 +24,9 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 📺 A few of my latest videos
 
-- [the little led cube that kinda could](https://www.youtube.com/watch?v=um7v7Y04vGw) - (2 days ago)
+- [the little led cube that kinda could](https://www.youtube.com/watch?v=um7v7Y04vGw) - (3 days ago)
 
-- [My first FRC Robotics Competition](https://www.youtube.com/watch?v=w_o2-eqkbCk) - (4 days ago)
+- [My first FRC Robotics Competition](https://www.youtube.com/watch?v=w_o2-eqkbCk) - (5 days ago)
 
 - [Finally it (kinda) works #coding #ledcube](https://www.youtube.com/watch?v=Mfk6LF0zwZg) - (1 week ago)
 
