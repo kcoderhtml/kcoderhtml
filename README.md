@@ -7,7 +7,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 #### 👷 Check out what I'm currently working on
 
 - [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (today)
-- [school](https://github.com/kcoderhtml/school) -  (today)
+- [school](https://github.com/kcoderhtml/school) - a portal to view my school assignments (today)
 - [charming-slack](https://github.com/kcoderhtml/charming-slack) - A cool slack over ssh project with a pretty bubbletea tui (2 days ago)
 - [sixel-testing](https://github.com/kcoderhtml/sixel-testing) -  (2 days ago)
 - [slack-emoji-list](https://github.com/kcoderhtml/slack-emoji-list) -  (3 days ago)
@@ -17,7 +17,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 🌱 My latest projects
 
-- [school](https://github.com/kcoderhtml/school) - 
+- [school](https://github.com/kcoderhtml/school) - a portal to view my school assignments
 - [sixel-testing](https://github.com/kcoderhtml/sixel-testing) - 
 - [slack-emoji-list](https://github.com/kcoderhtml/slack-emoji-list) - 
 - [lora-module](https://github.com/kcoderhtml/lora-module) - 
