@@ -7,20 +7,20 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 #### 👷 Check out what I'm currently working on
 
 - [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (today)
-- [sixel-testing](https://github.com/kcoderhtml/sixel-testing) -  (2 days ago)
+- [school](https://github.com/kcoderhtml/school) -  (today)
 - [charming-slack](https://github.com/kcoderhtml/charming-slack) - A cool slack over ssh project with a pretty bubbletea tui (2 days ago)
+- [sixel-testing](https://github.com/kcoderhtml/sixel-testing) -  (2 days ago)
 - [slack-emoji-list](https://github.com/kcoderhtml/slack-emoji-list) -  (3 days ago)
-- [led-matrix](https://github.com/kcoderhtml/led-matrix) - a matrix of epic led porportions (5 days ago)
 - [lora-module](https://github.com/kcoderhtml/lora-module) -  (5 days ago)
+- [led-matrix](https://github.com/kcoderhtml/led-matrix) - a matrix of epic led porportions (5 days ago)
 - [astro-site](https://github.com/kcoderhtml/astro-site) - my personal blog and site (6 days ago)
-- [grolf](https://github.com/kcoderhtml/grolf) - hackclub's beloved arcade helper! (1 week ago)
 
 #### 🌱 My latest projects
 
+- [school](https://github.com/kcoderhtml/school) - 
 - [sixel-testing](https://github.com/kcoderhtml/sixel-testing) - 
 - [slack-emoji-list](https://github.com/kcoderhtml/slack-emoji-list) - 
 - [lora-module](https://github.com/kcoderhtml/lora-module) - 
-- [led-matrix](https://github.com/kcoderhtml/led-matrix) - a matrix of epic led porportions
 
 #### 📺 A few of my latest videos
 
