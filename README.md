@@ -6,21 +6,21 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 Check out what I'm currently working on
 
+- [baby-names](https://github.com/kcoderhtml/baby-names) - 👶 Answering the Question No One has Ever Asked - "has anyone named their child nostalgia?" (today)
 - [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (1 day ago)
 - [school](https://github.com/kcoderhtml/school) - a portal to view my school assignments (1 day ago)
 - [charming-slack](https://github.com/kcoderhtml/charming-slack) - A cool slack over ssh project with a pretty bubbletea tui (3 days ago)
 - [sixel-testing](https://github.com/kcoderhtml/sixel-testing) -  (3 days ago)
 - [slack-emoji-list](https://github.com/kcoderhtml/slack-emoji-list) -  (4 days ago)
-- [led-matrix](https://github.com/kcoderhtml/led-matrix) - a matrix of epic led porportions (6 days ago)
 - [lora-module](https://github.com/kcoderhtml/lora-module) -  (6 days ago)
-- [astro-site](https://github.com/kcoderhtml/astro-site) - my personal blog and site (1 week ago)
+- [led-matrix](https://github.com/kcoderhtml/led-matrix) - a matrix of epic led porportions (6 days ago)
 
 #### 🌱 My latest projects
 
+- [baby-names](https://github.com/kcoderhtml/baby-names) - 👶 Answering the Question No One has Ever Asked - "has anyone named their child nostalgia?"
 - [school](https://github.com/kcoderhtml/school) - a portal to view my school assignments
 - [sixel-testing](https://github.com/kcoderhtml/sixel-testing) - 
 - [slack-emoji-list](https://github.com/kcoderhtml/slack-emoji-list) - 
-- [lora-module](https://github.com/kcoderhtml/lora-module) - 
 
 #### 📺 A few of my latest videos
 
