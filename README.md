@@ -6,8 +6,8 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 Check out what I'm currently working on
 
+- [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (today)
 - [school](https://github.com/kcoderhtml/school) - a portal to view my school assignments (1 day ago)
-- [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (1 day ago)
 - [baby-names](https://github.com/kcoderhtml/baby-names) - 👶 Answering the Question No One has Ever Asked - "has anyone named their child nostalgia?" (1 day ago)
 - [sixel-testing](https://github.com/kcoderhtml/sixel-testing) -  (4 days ago)
 - [charming-slack](https://github.com/kcoderhtml/charming-slack) - A cool slack over ssh project with a pretty bubbletea tui (4 days ago)
