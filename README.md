@@ -6,11 +6,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 Check out what I'm currently working on
 
-- [the-tavern](https://github.com/kcoderhtml/the-tavern) - The hackclub bag tavern where you can get gossip and learn about the latest quests (today)
-- [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (1 day ago)
-- [mini-me](https://github.com/kcoderhtml/mini-me) - a tiny helper to convert slack data to an openai finetuning file (2 days ago)
-- [charming-slack](https://github.com/kcoderhtml/charming-slack) - A cool slack over ssh project with a pretty bubbletea tui (4 days ago)
-- [grolf](https://github.com/kcoderhtml/grolf) - hackclub's beloved arcade helper! (4 days ago)
+- [the-tavern](https://github.com/kcoderhtml/the-tavern) - The hackclub bag tavern where you can get gossip and learn about the latest quests (1 day ago)
+- [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (2 days ago)
+- [mini-me](https://github.com/kcoderhtml/mini-me) - a tiny helper to convert slack data to an openai finetuning file (3 days ago)
+- [charming-slack](https://github.com/kcoderhtml/charming-slack) - A cool slack over ssh project with a pretty bubbletea tui (5 days ago)
+- [grolf](https://github.com/kcoderhtml/grolf) - hackclub's beloved arcade helper! (5 days ago)
 - [baby-names](https://github.com/kcoderhtml/baby-names) - 👶 Answering the Question No One has Ever Asked - "has anyone named their child nostalgia?" (1 week ago)
 - [school](https://github.com/kcoderhtml/school) - a portal to view my school assignments (1 week ago)
 - [sixel-testing](https://github.com/kcoderhtml/sixel-testing) -  (1 week ago)
@@ -24,9 +24,9 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 📺 A few of my latest videos
 
-- [when you just can't resist the spot #frc #robotics #hopefullycinematic](https://www.youtube.com/watch?v=Y7SZ_TDleGM) - (6 days ago)
+- [when you just can't resist the spot #frc #robotics #hopefullycinematic](https://www.youtube.com/watch?v=Y7SZ_TDleGM) - (1 week ago)
 
-- [the little led cube that kinda could](https://www.youtube.com/watch?v=um7v7Y04vGw) - (1 week ago)
+- [the little led cube that kinda could](https://www.youtube.com/watch?v=um7v7Y04vGw) - (2 weeks ago)
 
 - [My first FRC Robotics Competition](https://www.youtube.com/watch?v=w_o2-eqkbCk) - (2 weeks ago)
 
