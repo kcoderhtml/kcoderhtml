@@ -6,12 +6,12 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 Check out what I'm currently working on
 
-- [x](https://github.com/kcoderhtml/x) - a collection of payloads and scripts (today)
-- [grolf](https://github.com/kcoderhtml/grolf) - hackclub's beloved arcade helper! (today)
-- [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (1 day ago)
-- [the-tavern](https://github.com/kcoderhtml/the-tavern) - The hackclub bag tavern where you can get gossip and learn about the latest quests (1 day ago)
-- [mini-me](https://github.com/kcoderhtml/mini-me) - a tiny helper to convert slack data to an openai finetuning file (4 days ago)
-- [charming-slack](https://github.com/kcoderhtml/charming-slack) - A cool slack over ssh project with a pretty bubbletea tui (6 days ago)
+- [x](https://github.com/kcoderhtml/x) - a collection of payloads and scripts (1 day ago)
+- [grolf](https://github.com/kcoderhtml/grolf) - hackclub's beloved arcade helper! (1 day ago)
+- [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (2 days ago)
+- [the-tavern](https://github.com/kcoderhtml/the-tavern) - The hackclub bag tavern where you can get gossip and learn about the latest quests (2 days ago)
+- [mini-me](https://github.com/kcoderhtml/mini-me) - a tiny helper to convert slack data to an openai finetuning file (5 days ago)
+- [charming-slack](https://github.com/kcoderhtml/charming-slack) - A cool slack over ssh project with a pretty bubbletea tui (1 week ago)
 - [school](https://github.com/kcoderhtml/school) - a portal to view my school assignments (1 week ago)
 - [baby-names](https://github.com/kcoderhtml/baby-names) - 👶 Answering the Question No One has Ever Asked - "has anyone named their child nostalgia?" (1 week ago)
 
