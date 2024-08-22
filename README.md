@@ -6,6 +6,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 Check out what I'm currently working on
 
+- [spambot](https://github.com/kcoderhtml/spambot) -  (today)
 - [grolf](https://github.com/kcoderhtml/grolf) - hackclub's beloved arcade helper! (1 day ago)
 - [site](https://github.com/hackclub/site) - 🌈 The new, new Hack Club website (uses Next.js & Theme UI). (1 day ago)
 - [x](https://github.com/kcoderhtml/x) - a collection of payloads and scripts (2 days ago)
@@ -13,14 +14,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 - [the-tavern](https://github.com/kcoderhtml/the-tavern) - The hackclub bag tavern where you can get gossip and learn about the latest quests (3 days ago)
 - [mini-me](https://github.com/kcoderhtml/mini-me) - a tiny helper to convert slack data to an openai finetuning file (6 days ago)
 - [charming-slack](https://github.com/kcoderhtml/charming-slack) - A cool slack over ssh project with a pretty bubbletea tui (1 week ago)
-- [baby-names](https://github.com/kcoderhtml/baby-names) - 👶 Answering the Question No One has Ever Asked - "has anyone named their child nostalgia?" (1 week ago)
 
 #### 🌱 My latest projects
 
+- [spambot](https://github.com/kcoderhtml/spambot) - 
 - [x](https://github.com/kcoderhtml/x) - a collection of payloads and scripts
 - [the-tavern](https://github.com/kcoderhtml/the-tavern) - The hackclub bag tavern where you can get gossip and learn about the latest quests
 - [mini-me](https://github.com/kcoderhtml/mini-me) - a tiny helper to convert slack data to an openai finetuning file
-- [baby-names](https://github.com/kcoderhtml/baby-names) - 👶 Answering the Question No One has Ever Asked - "has anyone named their child nostalgia?"
 
 #### 📺 A few of my latest videos
 
