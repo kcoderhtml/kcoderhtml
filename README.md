@@ -38,3 +38,7 @@ Want to hire me for a project? want to colab on something? or do you just want t
 
 - Email: [contact@kieranklukas.com](mailto:contact@kieranklukas.com)
 - I'm also sometimes on Matrix!: [@kieran:dumpsterfire.icu](https://matrix.to/#/@kieran.matrix.dumpsterfire.icu)
+
+---
+
+![Kcoderhtml's Activity Grid](https://raw.githubusercontent.com/kcoderhtml/kcoderhtml/output/github-contribution-grid-snake.svg)
