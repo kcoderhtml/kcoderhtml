@@ -6,10 +6,10 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 Check out what I'm currently working on
 
-- [mini-me](https://github.com/kcoderhtml/mini-me) - a tiny helper to convert slack data to an openai finetuning file (1 day ago)
-- [grolf](https://github.com/kcoderhtml/grolf) - hackclub's beloved arcade helper! (1 day ago)
 - [charming-slack](https://github.com/kcoderhtml/charming-slack) - A cool slack over ssh project with a pretty bubbletea tui (1 day ago)
+- [grolf](https://github.com/kcoderhtml/grolf) - hackclub's beloved arcade helper! (1 day ago)
 - [spambot](https://github.com/kcoderhtml/spambot) - groooooowww the thread!!!! (1 day ago)
+- [mini-me](https://github.com/kcoderhtml/mini-me) - a tiny helper to convert slack data to an openai finetuning file (1 day ago)
 - [site](https://github.com/hackclub/site) - 🌈 The new, new Hack Club website (uses Next.js & Theme UI). (2 days ago)
 - [x](https://github.com/kcoderhtml/x) - a collection of payloads and scripts (3 days ago)
 - [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (4 days ago)
@@ -38,7 +38,3 @@ Want to hire me for a project? want to colab on something? or do you just want t
 
 - Email: [contact@kieranklukas.com](mailto:contact@kieranklukas.com)
 - I'm also sometimes on Matrix!: [@kieran:dumpsterfire.icu](https://matrix.to/#/@kieran.matrix.dumpsterfire.icu)
-
----
-
-![Kcoderhtml's Activity Grid](https://raw.githubusercontent.com/kcoderhtml/kcoderhtml/output/github-contribution-grid-snake.svg)
