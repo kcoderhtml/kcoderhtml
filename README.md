@@ -6,14 +6,14 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 Check out what I'm currently working on
 
-- [mini-me](https://github.com/kcoderhtml/mini-me) - a tiny helper to convert slack data to an openai finetuning file (today)
 - [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (today)
-- [charming-slack](https://github.com/kcoderhtml/charming-slack) - A cool slack over ssh project with a pretty bubbletea tui (today)
+- [baby-names](https://github.com/kcoderhtml/baby-names) - 👶 Answering the Question No One has Ever Asked - "has anyone named their child nostalgia?" (today)
 - [spambot](https://github.com/kcoderhtml/spambot) - groooooowww the thread!!!! (today)
-- [grolf](https://github.com/kcoderhtml/grolf) - hackclub's beloved arcade helper! (1 day ago)
+- [charming-slack](https://github.com/kcoderhtml/charming-slack) - A cool slack over ssh project with a pretty bubbletea tui (today)
+- [school](https://github.com/kcoderhtml/school) - a portal to view my school assignments (today)
+- [mini-me](https://github.com/kcoderhtml/mini-me) - a tiny helper to convert slack data to an openai finetuning file (today)
 - [site](https://github.com/hackclub/site) - 🌈 The new, new Hack Club website (uses Next.js & Theme UI). (1 day ago)
-- [x](https://github.com/kcoderhtml/x) - a collection of payloads and scripts (3 days ago)
-- [the-tavern](https://github.com/kcoderhtml/the-tavern) - The hackclub bag tavern where you can get gossip and learn about the latest quests (4 days ago)
+- [grolf](https://github.com/kcoderhtml/grolf) - hackclub's beloved arcade helper! (1 day ago)
 
 #### 🌱 My latest projects
 
