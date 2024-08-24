@@ -6,14 +6,14 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 Check out what I'm currently working on
 
+- [hack-hour](https://github.com/hackclub/hack-hour) - Every Hour = More Power. Keep track of each hour of work you get done on your project. (today)
 - [grolf](https://github.com/kcoderhtml/grolf) - hackclub's beloved arcade helper! (today)
-- [mini-me](https://github.com/kcoderhtml/mini-me) - a tiny helper to convert slack data to an openai finetuning file (1 day ago)
-- [baby-names](https://github.com/kcoderhtml/baby-names) - 👶 Answering the Question No One has Ever Asked - "has anyone named their child nostalgia?" (1 day ago)
 - [school](https://github.com/kcoderhtml/school) - a portal to view my school assignments (1 day ago)
-- [charming-slack](https://github.com/kcoderhtml/charming-slack) - A cool slack over ssh project with a pretty bubbletea tui (1 day ago)
-- [scaffold](https://github.com/kcoderhtml/scaffold) - a second brain client on ios (1 day ago)
-- [the-old-man](https://github.com/kcoderhtml/the-old-man) - a helper to provide an introduction to bag on hackclub (1 day ago)
 - [astro-site](https://github.com/kcoderhtml/astro-site) - my personal blog and site (1 day ago)
+- [baby-names](https://github.com/kcoderhtml/baby-names) - 👶 Answering the Question No One has Ever Asked - "has anyone named their child nostalgia?" (1 day ago)
+- [charming-slack](https://github.com/kcoderhtml/charming-slack) - A cool slack over ssh project with a pretty bubbletea tui (1 day ago)
+- [spambot](https://github.com/kcoderhtml/spambot) - groooooowww the thread!!!! (1 day ago)
+- [the-old-man](https://github.com/kcoderhtml/the-old-man) - a helper to provide an introduction to bag on hackclub (1 day ago)
 
 #### 🌱 My latest projects
 
