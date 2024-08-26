@@ -12,7 +12,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 - [grolf](https://github.com/kcoderhtml/grolf) - hackclub's beloved arcade helper! (2 days ago)
 - [hack-hour](https://github.com/hackclub/hack-hour) - Every Hour = More Power. Keep track of each hour of work you get done on your project. (2 days ago)
 - [mini-me](https://github.com/kcoderhtml/mini-me) - a tiny helper to convert slack data to an openai finetuning file (3 days ago)
-- [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (3 days ago)
+- [spambot](https://github.com/kcoderhtml/spambot) - groooooowww the thread!!!! (3 days ago)
 - [the-old-man](https://github.com/kcoderhtml/the-old-man) - a helper to provide an introduction to bag on hackclub (3 days ago)
 
 #### 🌱 My latest projects
