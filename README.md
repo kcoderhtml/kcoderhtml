@@ -6,14 +6,14 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 Check out what I'm currently working on
 
+- [site](https://github.com/hackclub/site) - 🌈 The new, new Hack Club website (uses Next.js & Theme UI). (1 day ago)
 - [abot](https://github.com/kcoderhtml/abot) -  (1 day ago)
-- [the-tavern](https://github.com/kcoderhtml/the-tavern) - The hackclub bag tavern where you can get gossip and learn about the latest quests (2 days ago)
 - [slack-hax](https://github.com/kcoderhtml/slack-hax) -  (2 days ago)
-- [grolf](https://github.com/kcoderhtml/grolf) - hackclub's beloved arcade helper! (3 days ago)
+- [the-tavern](https://github.com/kcoderhtml/the-tavern) - The hackclub bag tavern where you can get gossip and learn about the latest quests (2 days ago)
 - [hack-hour](https://github.com/hackclub/hack-hour) - Every Hour = More Power. Keep track of each hour of work you get done on your project. (3 days ago)
-- [spambot](https://github.com/kcoderhtml/spambot) - groooooowww the thread!!!! (4 days ago)
-- [the-old-man](https://github.com/kcoderhtml/the-old-man) - a helper to provide an introduction to bag on hackclub (4 days ago)
-- [astro-site](https://github.com/kcoderhtml/astro-site) - my personal blog and site (4 days ago)
+- [grolf](https://github.com/kcoderhtml/grolf) - hackclub's beloved arcade helper! (3 days ago)
+- [mini-me](https://github.com/kcoderhtml/mini-me) - a tiny helper to convert slack data to an openai finetuning file (4 days ago)
+- [baby-names](https://github.com/kcoderhtml/baby-names) - 👶 Answering the Question No One has Ever Asked - "has anyone named their child nostalgia?" (4 days ago)
 
 #### 🌱 My latest projects
 
