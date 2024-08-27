@@ -11,7 +11,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 - [slack-hax](https://github.com/kcoderhtml/slack-hax) -  (2 days ago)
 - [grolf](https://github.com/kcoderhtml/grolf) - hackclub's beloved arcade helper! (3 days ago)
 - [hack-hour](https://github.com/hackclub/hack-hour) - Every Hour = More Power. Keep track of each hour of work you get done on your project. (3 days ago)
-- [charming-slack](https://github.com/kcoderhtml/charming-slack) - A cool slack over ssh project with a pretty bubbletea tui (4 days ago)
+- [spambot](https://github.com/kcoderhtml/spambot) - groooooowww the thread!!!! (4 days ago)
 - [the-old-man](https://github.com/kcoderhtml/the-old-man) - a helper to provide an introduction to bag on hackclub (4 days ago)
 - [astro-site](https://github.com/kcoderhtml/astro-site) - my personal blog and site (4 days ago)
 
