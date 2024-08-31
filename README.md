@@ -6,13 +6,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 Check out what I'm currently working on
 
-- [grolf](https://github.com/kcoderhtml/grolf) - hackclub's beloved arcade helper! (today)
-- [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (2 days ago)
-- [abot](https://github.com/kcoderhtml/abot) -  (2 days ago)
-- [site](https://github.com/hackclub/site) - 🌈 The new, new Hack Club website (uses Next.js & Theme UI). (4 days ago)
-- [the-tavern](https://github.com/kcoderhtml/the-tavern) - The hackclub bag tavern where you can get gossip and learn about the latest quests (5 days ago)
-- [slack-hax](https://github.com/kcoderhtml/slack-hax) -  (5 days ago)
-- [hack-hour](https://github.com/hackclub/hack-hour) - Every Hour = More Power. Keep track of each hour of work you get done on your project. (6 days ago)
+- [grolf](https://github.com/kcoderhtml/grolf) - hackclub's beloved arcade helper! (1 day ago)
+- [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (3 days ago)
+- [abot](https://github.com/kcoderhtml/abot) -  (3 days ago)
+- [site](https://github.com/hackclub/site) - 🌈 The new, new Hack Club website (uses Next.js & Theme UI). (5 days ago)
+- [the-tavern](https://github.com/kcoderhtml/the-tavern) - The hackclub bag tavern where you can get gossip and learn about the latest quests (6 days ago)
+- [slack-hax](https://github.com/kcoderhtml/slack-hax) -  (6 days ago)
+- [hack-hour](https://github.com/hackclub/hack-hour) - Every Hour = More Power. Keep track of each hour of work you get done on your project. (1 week ago)
 - [astro-site](https://github.com/kcoderhtml/astro-site) - my personal blog and site (1 week ago)
 
 #### 🌱 My latest projects
@@ -28,7 +28,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 - [the little led cube that kinda could](https://www.youtube.com/watch?v=um7v7Y04vGw) - (3 weeks ago)
 
-- [My first FRC Robotics Competition](https://www.youtube.com/watch?v=w_o2-eqkbCk) - (3 weeks ago)
+- [My first FRC Robotics Competition](https://www.youtube.com/watch?v=w_o2-eqkbCk) - (4 weeks ago)
 
 
 
