@@ -6,10 +6,10 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 Check out what I'm currently working on
 
-- [grolf](https://github.com/kcoderhtml/grolf) - hackclub's beloved arcade helper! (2 days ago)
-- [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (4 days ago)
-- [abot](https://github.com/kcoderhtml/abot) -  (4 days ago)
-- [site](https://github.com/hackclub/site) - 🌈 The new, new Hack Club website (uses Next.js & Theme UI). (6 days ago)
+- [grolf](https://github.com/kcoderhtml/grolf) - hackclub's beloved arcade helper! (3 days ago)
+- [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (5 days ago)
+- [abot](https://github.com/kcoderhtml/abot) -  (5 days ago)
+- [site](https://github.com/hackclub/site) - 🌈 The new, new Hack Club website (uses Next.js & Theme UI). (1 week ago)
 - [the-tavern](https://github.com/kcoderhtml/the-tavern) - The hackclub bag tavern where you can get gossip and learn about the latest quests (1 week ago)
 - [slack-hax](https://github.com/kcoderhtml/slack-hax) -  (1 week ago)
 - [hack-hour](https://github.com/hackclub/hack-hour) - Every Hour = More Power. Keep track of each hour of work you get done on your project. (1 week ago)
@@ -24,11 +24,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 📺 A few of my latest videos
 
-- [when you just can't resist the spot #frc #robotics #hopefullycinematic](https://www.youtube.com/watch?v=Y7SZ_TDleGM) - (2 weeks ago)
+- [when you just can't resist the spot #frc #robotics #hopefullycinematic](https://www.youtube.com/watch?v=Y7SZ_TDleGM) - (3 weeks ago)
 
-- [the little led cube that kinda could](https://www.youtube.com/watch?v=um7v7Y04vGw) - (3 weeks ago)
+- [the little led cube that kinda could](https://www.youtube.com/watch?v=um7v7Y04vGw) - (4 weeks ago)
 
-- [My first FRC Robotics Competition](https://www.youtube.com/watch?v=w_o2-eqkbCk) - (4 weeks ago)
+- [My first FRC Robotics Competition](https://www.youtube.com/watch?v=w_o2-eqkbCk) - (1 month ago)
 
 
 
