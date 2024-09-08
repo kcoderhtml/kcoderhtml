@@ -1,7 +1,5 @@
 ### Hi 👋, I'm Kieran Klukas - A digital explorer
 
-![wakatime weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=krn&api_domain=w.dunkirk.sh&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
-
 Welcome to my GitHub profile! My name is Kieran Klukas, and I am a homeschooler, digital explorer, Homelaber, Videographer, and GNU/UNIX freak.
 
 When I'm not doing school or working on a project, I enjoy flying drones and making videos on my YouTube channel, [A Wanderer's Archives](https://youtube.com/@wanderer.archives).
@@ -32,3 +30,7 @@ Want to hire me for a project? want to colab on something? or do you just want t
 ---
 
 ![Kcoderhtml's Activity Grid](https://raw.githubusercontent.com/kcoderhtml/kcoderhtml/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=krn&api_domain=w.dunkirk.sh&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact">
+</p>
+
