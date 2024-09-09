@@ -6,10 +6,10 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 Check out what I'm currently working on
 
-- [abot](https://github.com/kcoderhtml/abot) -  (today)
-- [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (today)
-- [grolf](https://github.com/kcoderhtml/grolf) - hackclub's beloved arcade helper! (today)
-- [site](https://github.com/hackclub/site) - 🌈 The new, new Hack Club website (uses Next.js & Theme UI). (1 week ago)
+- [abot](https://github.com/kcoderhtml/abot) -  (1 day ago)
+- [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (1 day ago)
+- [grolf](https://github.com/kcoderhtml/grolf) - hackclub's beloved arcade helper! (1 day ago)
+- [site](https://github.com/hackclub/site) - 🌈 The new, new Hack Club website (uses Next.js & Theme UI). (2 weeks ago)
 - [the-tavern](https://github.com/kcoderhtml/the-tavern) - The hackclub bag tavern where you can get gossip and learn about the latest quests (2 weeks ago)
 - [slack-hax](https://github.com/kcoderhtml/slack-hax) -  (2 weeks ago)
 - [hack-hour](https://github.com/hackclub/hack-hour) - Every Hour = More Power. Keep track of each hour of work you get done on your project. (2 weeks ago)
@@ -24,7 +24,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 📺 A few of my latest videos
 
-- [when you just can't resist the spot #frc #robotics #hopefullycinematic](https://www.youtube.com/watch?v=Y7SZ_TDleGM) - (3 weeks ago)
+- [when you just can't resist the spot #frc #robotics #hopefullycinematic](https://www.youtube.com/watch?v=Y7SZ_TDleGM) - (4 weeks ago)
 
 - [the little led cube that kinda could](https://www.youtube.com/watch?v=um7v7Y04vGw) - (1 month ago)
 
