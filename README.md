@@ -6,14 +6,14 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 Check out what I'm currently working on
 
-- [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (5 days ago)
-- [grolf](https://github.com/kcoderhtml/grolf) - hackclub's beloved arcade helper! (6 days ago)
-- [abot](https://github.com/kcoderhtml/abot) -  (6 days ago)
+- [site](https://github.com/thepurplebubble/site) - Purple Bubble's main website. (1 day ago)
+- [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (6 days ago)
+- [grolf](https://github.com/kcoderhtml/grolf) - hackclub's beloved arcade helper! (1 week ago)
+- [abot](https://github.com/kcoderhtml/abot) -  (1 week ago)
 - [site](https://github.com/hackclub/site) - 🌈 The new, new Hack Club website (uses Next.js & Theme UI). (2 weeks ago)
-- [the-tavern](https://github.com/kcoderhtml/the-tavern) - The hackclub bag tavern where you can get gossip and learn about the latest quests (2 weeks ago)
-- [slack-hax](https://github.com/kcoderhtml/slack-hax) -  (2 weeks ago)
+- [slack-hax](https://github.com/kcoderhtml/slack-hax) -  (3 weeks ago)
+- [the-tavern](https://github.com/kcoderhtml/the-tavern) - The hackclub bag tavern where you can get gossip and learn about the latest quests (3 weeks ago)
 - [hack-hour](https://github.com/hackclub/hack-hour) - Every Hour = More Power. Keep track of each hour of work you get done on your project. (3 weeks ago)
-- [myblog](https://github.com/kcoderhtml/myblog) - my personal blog and site (3 weeks ago)
 
 #### 🌱 My latest projects
 
