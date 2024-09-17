@@ -6,18 +6,18 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 Check out what I'm currently working on
 
-- [pirateship-api](https://github.com/kcoderhtml/pirateship-api) -  (today)
+- [grolf](https://github.com/kcoderhtml/grolf) - hackclub's beloved arcade helper! (today)
+- [pirateship-api](https://github.com/kcoderhtml/pirateship-api) - the pirateship api - typed (today)
 - [dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (1 day ago)
 - [site](https://github.com/thepurplebubble/site) - Purple Bubble's main website. (3 days ago)
 - [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (1 week ago)
 - [abot](https://github.com/kcoderhtml/abot) -  (1 week ago)
 - [hack-hour](https://github.com/hackclub/hack-hour) - Every Hour = More Power. Keep track of each hour of work you get done on your project. (1 week ago)
-- [grolf](https://github.com/kcoderhtml/grolf) - hackclub's beloved arcade helper! (1 week ago)
 - [site](https://github.com/hackclub/site) - 🌈 The new, new Hack Club website (uses Next.js & Theme UI). (3 weeks ago)
 
 #### 🌱 My latest projects
 
-- [pirateship-api](https://github.com/kcoderhtml/pirateship-api) - 
+- [pirateship-api](https://github.com/kcoderhtml/pirateship-api) - the pirateship api - typed
 - [slack-hax](https://github.com/kcoderhtml/slack-hax) - 
 - [spambot](https://github.com/kcoderhtml/spambot) - groooooowww the thread!!!!
 - [x](https://github.com/kcoderhtml/x) - a collection of payloads and scripts
@@ -43,6 +43,6 @@ Want to hire me for a project? want to colab on something? or do you just want t
 
 ![Kcoderhtml's Activity Grid](https://raw.githubusercontent.com/kcoderhtml/kcoderhtml/output/github-contribution-grid-snake.svg)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=krn&api_domain=w.dunkirk.sh&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=krn&api_domain=waka.hackclub.com&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Hackatime%20Week%20Stats&layout=compact">
 </p>
 
