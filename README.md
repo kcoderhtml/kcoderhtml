@@ -6,8 +6,8 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 Check out what I'm currently working on
 
-- [grolf](https://github.com/kcoderhtml/grolf) - hackclub's beloved arcade helper! (today)
 - [pirateship-api](https://github.com/kcoderhtml/pirateship-api) - the pirateship api - typed (today)
+- [grolf](https://github.com/kcoderhtml/grolf) - hackclub's beloved arcade helper! (today)
 - [dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (1 day ago)
 - [site](https://github.com/thepurplebubble/site) - Purple Bubble's main website. (3 days ago)
 - [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (1 week ago)
