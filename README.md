@@ -8,8 +8,8 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 - [channelping](https://github.com/kcoderhtml/channelping) - easily create a ping group for the channel (today)
 - [vector-tools](https://github.com/kcoderhtml/vector-tools) - a quick tool for vector math made in 🥟 (2 days ago)
-- [pirateship-api](https://github.com/kcoderhtml/pirateship-api) - the pirateship api - typed (6 days ago)
 - [grolf](https://github.com/kcoderhtml/grolf) - hackclub's beloved arcade helper! (6 days ago)
+- [pirateship-api](https://github.com/kcoderhtml/pirateship-api) - the pirateship api - typed (6 days ago)
 - [dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (1 week ago)
 - [site](https://github.com/thepurplebubble/site) - Purple Bubble's main website. (1 week ago)
 - [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (2 weeks ago)
