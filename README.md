@@ -6,12 +6,12 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 Check out what I'm currently working on
 
-- [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (1 day ago)
 - [channelping](https://github.com/kcoderhtml/channelping) - easily create a ping group for the channel (1 day ago)
+- [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (1 day ago)
 - [dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (2 days ago)
 - [vector-tools](https://github.com/kcoderhtml/vector-tools) - a quick tool for vector math made in 🥟 (4 days ago)
-- [pirateship-api](https://github.com/kcoderhtml/pirateship-api) - the pirateship api - typed (1 week ago)
 - [grolf](https://github.com/kcoderhtml/grolf) - hackclub's beloved arcade helper! (1 week ago)
+- [pirateship-api](https://github.com/kcoderhtml/pirateship-api) - the pirateship api - typed (1 week ago)
 - [site](https://github.com/thepurplebubble/site) - Purple Bubble's main website. (1 week ago)
 - [hack-hour](https://github.com/hackclub/hack-hour) - Every Hour = More Power. Keep track of each hour of work you get done on your project. (2 weeks ago)
 
