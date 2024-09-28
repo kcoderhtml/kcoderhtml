@@ -12,8 +12,8 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 - [channelping](https://github.com/kcoderhtml/channelping) - easily create a ping group for the channel (4 days ago)
 - [dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (5 days ago)
 - [vector-tools](https://github.com/kcoderhtml/vector-tools) - a quick tool for vector math made in 🥟 (1 week ago)
-- [grolf](https://github.com/kcoderhtml/grolf) - hackclub's beloved arcade helper! (1 week ago)
 - [pirateship-api](https://github.com/kcoderhtml/pirateship-api) - the pirateship api - typed (1 week ago)
+- [grolf](https://github.com/kcoderhtml/grolf) - hackclub's beloved arcade helper! (1 week ago)
 
 #### 🌱 My latest projects
 
