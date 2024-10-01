@@ -6,14 +6,14 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 Check out what I'm currently working on
 
-- [hours-in-public](https://github.com/kcoderhtml/hours-in-public) -  (today)
-- [channelping](https://github.com/kcoderhtml/channelping) - easily create a ping group for the channel (1 day ago)
-- [site](https://github.com/hackclub/site) - 🌈 The new, new Hack Club website (uses Next.js & Theme UI). (3 days ago)
-- [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (5 days ago)
+- [hours-in-public](https://github.com/kcoderhtml/hours-in-public) -  (1 day ago)
+- [channelping](https://github.com/kcoderhtml/channelping) - easily create a ping group for the channel (2 days ago)
+- [site](https://github.com/hackclub/site) - 🌈 The new, new Hack Club website (uses Next.js & Theme UI). (4 days ago)
+- [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (6 days ago)
 - [dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (1 week ago)
 - [vector-tools](https://github.com/kcoderhtml/vector-tools) - a quick tool for vector math made in 🥟 (1 week ago)
-- [pirateship-api](https://github.com/kcoderhtml/pirateship-api) - the pirateship api - typed (1 week ago)
-- [grolf](https://github.com/kcoderhtml/grolf) - hackclub's beloved arcade helper! (1 week ago)
+- [pirateship-api](https://github.com/kcoderhtml/pirateship-api) - the pirateship api - typed (2 weeks ago)
+- [grolf](https://github.com/kcoderhtml/grolf) - hackclub's beloved arcade helper! (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -24,7 +24,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 📺 A few of my latest videos
 
-- [Hackatime how to!](https://www.youtube.com/watch?v=eKoD9yyr1To) - (1 week ago)
+- [Hackatime how to!](https://www.youtube.com/watch?v=eKoD9yyr1To) - (2 weeks ago)
 
 - [when you just can't resist the spot #frc #robotics #hopefullycinematic](https://www.youtube.com/watch?v=Y7SZ_TDleGM) - (1 month ago)
 
