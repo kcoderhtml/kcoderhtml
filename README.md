@@ -6,10 +6,10 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 Check out what I'm currently working on
 
-- [hours-in-public](https://github.com/kcoderhtml/hours-in-public) -  (today)
-- [channelping](https://github.com/kcoderhtml/channelping) - easily create a ping group for the channel (2 days ago)
-- [site](https://github.com/hackclub/site) - 🌈 The new, new Hack Club website (uses Next.js & Theme UI). (4 days ago)
-- [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (6 days ago)
+- [hours-in-public](https://github.com/kcoderhtml/hours-in-public) -  (1 day ago)
+- [channelping](https://github.com/kcoderhtml/channelping) - easily create a ping group for the channel (3 days ago)
+- [site](https://github.com/hackclub/site) - 🌈 The new, new Hack Club website (uses Next.js & Theme UI). (5 days ago)
+- [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (1 week ago)
 - [dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (1 week ago)
 - [vector-tools](https://github.com/kcoderhtml/vector-tools) - a quick tool for vector math made in 🥟 (1 week ago)
 - [pirateship-api](https://github.com/kcoderhtml/pirateship-api) - the pirateship api - typed (2 weeks ago)
@@ -17,10 +17,10 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 🌱 My latest projects
 
+- [orcophobia](https://github.com/kcoderhtml/orcophobia) - 
 - [hours-in-public](https://github.com/kcoderhtml/hours-in-public) - 
 - [channelping](https://github.com/kcoderhtml/channelping) - easily create a ping group for the channel
 - [vector-tools](https://github.com/kcoderhtml/vector-tools) - a quick tool for vector math made in 🥟
-- [pirateship-api](https://github.com/kcoderhtml/pirateship-api) - the pirateship api - typed
 
 #### 📺 A few of my latest videos
 
