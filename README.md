@@ -6,8 +6,8 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 Check out what I'm currently working on
 
-- [hours-in-public](https://github.com/kcoderhtml/hours-in-public) -  (1 day ago)
 - [dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (1 day ago)
+- [hours-in-public](https://github.com/kcoderhtml/hours-in-public) -  (1 day ago)
 - [channelping](https://github.com/kcoderhtml/channelping) - easily create a ping group for the channel (4 days ago)
 - [site](https://github.com/hackclub/site) - 🌈 The new, new Hack Club website (uses Next.js & Theme UI). (6 days ago)
 - [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (1 week ago)
