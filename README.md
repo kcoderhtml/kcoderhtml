@@ -6,10 +6,10 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 Check out what I'm currently working on
 
-- [hours-in-public](https://github.com/kcoderhtml/hours-in-public) -  (today)
-- [dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (1 day ago)
-- [channelping](https://github.com/kcoderhtml/channelping) - easily create a ping group for the channel (4 days ago)
-- [site](https://github.com/hackclub/site) - 🌈 The new, new Hack Club website (uses Next.js & Theme UI). (6 days ago)
+- [hours-in-public](https://github.com/kcoderhtml/hours-in-public) -  (1 day ago)
+- [dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (2 days ago)
+- [channelping](https://github.com/kcoderhtml/channelping) - easily create a ping group for the channel (5 days ago)
+- [site](https://github.com/hackclub/site) - 🌈 The new, new Hack Club website (uses Next.js & Theme UI). (1 week ago)
 - [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (1 week ago)
 - [vector-tools](https://github.com/kcoderhtml/vector-tools) - a quick tool for vector math made in 🥟 (1 week ago)
 - [pirateship-api](https://github.com/kcoderhtml/pirateship-api) - the pirateship api - typed (2 weeks ago)
@@ -28,7 +28,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 - [when you just can't resist the spot #frc #robotics #hopefullycinematic](https://www.youtube.com/watch?v=Y7SZ_TDleGM) - (1 month ago)
 
-- [the little led cube that kinda could](https://www.youtube.com/watch?v=um7v7Y04vGw) - (1 month ago)
+- [the little led cube that kinda could](https://www.youtube.com/watch?v=um7v7Y04vGw) - (2 months ago)
 
 
 
