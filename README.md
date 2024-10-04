@@ -17,10 +17,10 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 🌱 My latest projects
 
+- [ink](https://github.com/kcoderhtml/ink) - 
 - [orcophobia](https://github.com/kcoderhtml/orcophobia) - 
 - [hours-in-public](https://github.com/kcoderhtml/hours-in-public) - 
 - [channelping](https://github.com/kcoderhtml/channelping) - easily create a ping group for the channel
-- [vector-tools](https://github.com/kcoderhtml/vector-tools) - a quick tool for vector math made in 🥟
 
 #### 📺 A few of my latest videos
 
