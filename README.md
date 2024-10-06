@@ -6,13 +6,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 Check out what I'm currently working on
 
-- [ink](https://github.com/kcoderhtml/ink) - a simple way to log http requests (today)
-- [channelping](https://github.com/kcoderhtml/channelping) - easily create a ping group for the channel (today)
-- [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (1 day ago)
-- [nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS (1 day ago)
-- [led-matrix](https://github.com/kcoderhtml/led-matrix) - a matrix of epic led porportions (1 day ago)
-- [hours-in-public](https://github.com/kcoderhtml/hours-in-public) -  (2 days ago)
-- [dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (3 days ago)
+- [ink](https://github.com/kcoderhtml/ink) - a simple way to log http requests (1 day ago)
+- [channelping](https://github.com/kcoderhtml/channelping) - easily create a ping group for the channel (1 day ago)
+- [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (2 days ago)
+- [nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS (2 days ago)
+- [led-matrix](https://github.com/kcoderhtml/led-matrix) - a matrix of epic led porportions (2 days ago)
+- [hours-in-public](https://github.com/kcoderhtml/hours-in-public) -  (3 days ago)
+- [dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (4 days ago)
 - [site](https://github.com/hackclub/site) - 🌈 The new, new Hack Club website (uses Next.js & Theme UI). (1 week ago)
 
 #### 🌱 My latest projects
