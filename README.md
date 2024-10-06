@@ -17,10 +17,10 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 🌱 My latest projects
 
+- [crushDB](https://github.com/kcoderhtml/crushDB) - 
 - [ink](https://github.com/kcoderhtml/ink) - a simple way to log http requests
 - [orcophobia](https://github.com/kcoderhtml/orcophobia) - a simple html + css site for the spooky boba manor
 - [hours-in-public](https://github.com/kcoderhtml/hours-in-public) - the form for 10 hours in public!
-- [channelping](https://github.com/kcoderhtml/channelping) - easily create a ping group for the channel
 
 #### 📺 A few of my latest videos
 
