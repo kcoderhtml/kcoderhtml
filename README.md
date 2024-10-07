@@ -6,12 +6,12 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 Check out what I'm currently working on
 
+- [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (today)
 - [orcophobia](https://github.com/kcoderhtml/orcophobia) - a simple html + css site for the spooky boba manor (1 day ago)
 - [crushDB](https://github.com/kcoderhtml/crushDB) - Rainbow tables babyyyyyy! (1 day ago)
 - [hours-in-public](https://github.com/kcoderhtml/hours-in-public) - the form for 10 hours in public! (1 day ago)
-- [channelping](https://github.com/kcoderhtml/channelping) - easily create a ping group for the channel (2 days ago)
 - [ink](https://github.com/kcoderhtml/ink) - a simple way to log http requests (2 days ago)
-- [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (3 days ago)
+- [channelping](https://github.com/kcoderhtml/channelping) - easily create a ping group for the channel (2 days ago)
 - [led-matrix](https://github.com/kcoderhtml/led-matrix) - a matrix of epic led porportions (3 days ago)
 - [dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (5 days ago)
 
