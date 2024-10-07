@@ -7,7 +7,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 #### 👷 Check out what I'm currently working on
 
 - [hours-in-public](https://github.com/kcoderhtml/hours-in-public) - the form for 10 hours in public! (1 day ago)
-- [crushDB](https://github.com/kcoderhtml/crushDB) -  (1 day ago)
+- [crushDB](https://github.com/kcoderhtml/crushDB) - Rainbow tables babyyyyyy! (1 day ago)
 - [orcophobia](https://github.com/kcoderhtml/orcophobia) - a simple html + css site for the spooky boba manor (1 day ago)
 - [channelping](https://github.com/kcoderhtml/channelping) - easily create a ping group for the channel (2 days ago)
 - [ink](https://github.com/kcoderhtml/ink) - a simple way to log http requests (2 days ago)
@@ -17,7 +17,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 🌱 My latest projects
 
-- [crushDB](https://github.com/kcoderhtml/crushDB) - 
+- [crushDB](https://github.com/kcoderhtml/crushDB) - Rainbow tables babyyyyyy!
 - [ink](https://github.com/kcoderhtml/ink) - a simple way to log http requests
 - [orcophobia](https://github.com/kcoderhtml/orcophobia) - a simple html + css site for the spooky boba manor
 - [hours-in-public](https://github.com/kcoderhtml/hours-in-public) - the form for 10 hours in public!
