@@ -24,8 +24,8 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 Want to hire me for a project? want to colab on something? or do you just want to say hi?
 
-- Email: [contact@kieranklukas.com](mailto:contact@kieranklukas.com)
-- I'm also sometimes on Matrix!: [@kieran:dumpsterfire.icu](https://matrix.to/#/@kieran.matrix.dumpsterfire.icu)
+- Email: [`contact@kieranklukas.com`](mailto:contact@kieranklukas.com)
+- I'm also sometimes on Matrix!: [`@kieran:dumpsterfire.icu`](https://matrix.to/#/@kieran.matrix.dumpsterfire.icu)
 
 ---
 
