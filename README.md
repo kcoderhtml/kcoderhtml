@@ -41,7 +41,6 @@ Want to hire me for a project? want to colab on something? or do you just want t
 
 ---
 
-![Kcoderhtml's Activity Grid](https://raw.githubusercontent.com/kcoderhtml/kcoderhtml/output/github-contribution-grid-snake.svg)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=U062UG485EE&api_domain=waka.hackclub.com&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Hackatime%20Weekly%20Stats&layout=compact">
 </p>
