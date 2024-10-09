@@ -6,13 +6,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 Check out what I'm currently working on
 
-- [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (today)
-- [hours-in-public](https://github.com/kcoderhtml/hours-in-public) - the form for 10 hours in public! (today)
-- [crushDB](https://github.com/kcoderhtml/crushDB) - Rainbow tables babyyyyyy! (2 days ago)
-- [channelping](https://github.com/kcoderhtml/channelping) - easily create a ping group for the channel (3 days ago)
-- [ink](https://github.com/kcoderhtml/ink) - a simple way to log http requests (3 days ago)
-- [led-matrix](https://github.com/kcoderhtml/led-matrix) - a matrix of epic led porportions (4 days ago)
-- [dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (6 days ago)
+- [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (1 day ago)
+- [hours-in-public](https://github.com/kcoderhtml/hours-in-public) - the form for 10 hours in public! (1 day ago)
+- [crushDB](https://github.com/kcoderhtml/crushDB) - Rainbow tables babyyyyyy! (3 days ago)
+- [channelping](https://github.com/kcoderhtml/channelping) - easily create a ping group for the channel (4 days ago)
+- [ink](https://github.com/kcoderhtml/ink) - a simple way to log http requests (4 days ago)
+- [led-matrix](https://github.com/kcoderhtml/led-matrix) - a matrix of epic led porportions (5 days ago)
+- [dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (1 week ago)
 - [site](https://github.com/hackclub/site) - 🌈 The new, new Hack Club website (uses Next.js & Theme UI). (1 week ago)
 
 #### 🌱 My latest projects
