@@ -4,14 +4,14 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ (2 days ago)
-- [`hours-in-public`](https://github.com/kcoderhtml/hours-in-public) - _"the form for 10 hours in public!"_ (2 days ago)
-- [`crushDB`](https://github.com/kcoderhtml/crushDB) - _"Rainbow tables babyyyyyy!"_ (4 days ago)
-- [`orcophobia`](https://github.com/kcoderhtml/orcophobia) - _"a simple html + css site for the spooky boba manor"_ (4 days ago)
-- [`ink`](https://github.com/kcoderhtml/ink) - _"a simple way to log http requests"_ (5 days ago)
-- [`channelping`](https://github.com/kcoderhtml/channelping) - _"easily create a ping group for the channel"_ (5 days ago)
-- [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _"Nix Packages collection & NixOS"_ (6 days ago)
-- [`led-matrix`](https://github.com/kcoderhtml/led-matrix) - _"a matrix of epic led porportions"_ (6 days ago)
+- [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
+- [`hours-in-public`](https://github.com/kcoderhtml/hours-in-public) - _"the form for 10 hours in public!"_ **(2 days ago)**
+- [`crushDB`](https://github.com/kcoderhtml/crushDB) - _"Rainbow tables babyyyyyy!"_ **(4 days ago)**
+- [`orcophobia`](https://github.com/kcoderhtml/orcophobia) - _"a simple html + css site for the spooky boba manor"_ **(4 days ago)**
+- [`ink`](https://github.com/kcoderhtml/ink) - _"a simple way to log http requests"_ **(5 days ago)**
+- [`channelping`](https://github.com/kcoderhtml/channelping) - _"easily create a ping group for the channel"_ **(5 days ago)**
+- [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _"Nix Packages collection & NixOS"_ **(6 days ago)**
+- [`led-matrix`](https://github.com/kcoderhtml/led-matrix) - _"a matrix of epic led porportions"_ **(6 days ago)**
 
 #### ⌨️ My latest projects
 
@@ -22,11 +22,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 📺 my latest videos hot off the yt rss feed
 
-- [`Hackatime how to!`](https://www.youtube.com/watch?v=eKoD9yyr1To) - (3 weeks ago)
+- [`Hackatime how to!`](https://www.youtube.com/watch?v=eKoD9yyr1To) **(3 weeks ago)**
 
-- [`when you just can't resist the spot #frc #robotics #hopefullycinematic`](https://www.youtube.com/watch?v=Y7SZ_TDleGM) - (1 month ago)
+- [`when you just can't resist the spot #frc #robotics #hopefullycinematic`](https://www.youtube.com/watch?v=Y7SZ_TDleGM) **(1 month ago)**
 
-- [`the little led cube that kinda could`](https://www.youtube.com/watch?v=um7v7Y04vGw) - (2 months ago)
+- [`the little led cube that kinda could`](https://www.youtube.com/watch?v=um7v7Y04vGw) **(2 months ago)**
 
 
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💬 Languages:
-TypeScript   4h 38m 23s   █░░░░░░░░░░░░░░░░░░░░░░░░  38.75%
-Go           3h 52m 42s   █░░░░░░░░░░░░░░░░░░░░░░░░  32.39%
-Astro        53m 35s      █░░░░░░░░░░░░░░░░░░░░░░░░  7.46%
-Markdown     45m 29s      █░░░░░░░░░░░░░░░░░░░░░░░░  6.33%
-Smarty       43m 24s      █░░░░░░░░░░░░░░░░░░░░░░░░  6.04%
+TypeScript   4h 38m 23s   █░░░░░░░░░░░░░░░░░░░░░░░░  38.63%
+Go           3h 53m 49s   █░░░░░░░░░░░░░░░░░░░░░░░░  32.45%
+Astro        53m 35s      █░░░░░░░░░░░░░░░░░░░░░░░░  7.44%
+Markdown     45m 29s      █░░░░░░░░░░░░░░░░░░░░░░░░  6.31%
+Smarty       44m 22s      █░░░░░░░░░░░░░░░░░░░░░░░░  6.16%
 ```
 
 #### ✉️ Want to Contact me?
