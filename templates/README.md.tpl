@@ -1,6 +1,6 @@
 ### ✌️ Hi! I'm a 16 year old homeschooler and coder!
 
-When I'm not doing school or working on a project, I enjoy flying drones and making videos on my YouTube channel, [_`A Wanderer's Archives`_](https://youtube.com/@wanderer.archives).
+When I'm not doing school or working on a project, I enjoy flying drones and making videos on my YouTube channel, **[_`A Wanderer's Archives`_](https://youtube.com/@wanderer.archives)**.
 
 #### 👷 The latest repos i've pushed to
 {{range recentContributions 8}}
@@ -32,4 +32,4 @@ Email: me@dunkirk.sh
 Matrix: @kieran:dumpsterfire.icu
 ```
 
-_readme auto updates via [`kcoderhtml/markscribe`](https://github.com/kcoderhtml/markscribe)_
+_readme auto updates via **[`kcoderhtml/markscribe`](https://github.com/kcoderhtml/markscribe)**_
