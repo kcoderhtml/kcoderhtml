@@ -1,35 +1,33 @@
-### Hi 👋, I'm Kieran Klukas - A digital explorer
+### Hi 👋, I'm Kieran Klukas - A 16 year old homeschooler
 
-Welcome to my GitHub profile! My name is Kieran Klukas, and I am a homeschooler, digital explorer, Homelaber, Videographer, and GNU/UNIX freak.
+When I'm not doing school or working on a project, I enjoy flying drones and making videos on my YouTube channel, [_`A Wanderer's Archives`_](https://youtube.com/@wanderer.archives).
 
-When I'm not doing school or working on a project, I enjoy flying drones and making videos on my YouTube channel, [A Wanderer's Archives](https://youtube.com/@wanderer.archives).
-
-#### 👷 Check out what I'm currently working on
+#### 👷 The latest repos i've pushed to
 {{range recentContributions 8}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+- [`{{.Repo.Name}}`]({{.Repo.URL}}) - _"{{.Repo.Description}}"_ ({{humanize .OccurredAt}})
 {{- end}}
 
 #### 🌱 My latest projects
 {{range recentCreatedRepos "kcoderhtml" 4}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
+- [`{{.Name}}`]({{.URL}}) - _"{{.Description}}"_
 {{- end}}
 
-#### 📺 A few of my latest videos
+#### 📺 my latest videos hot off the yt rss feed
 {{range rss "https://www.youtube.com/feeds/videos.xml?channel_id=UCqUR4LXv4SviSy3_lUyE7hw" 3}}
-- [{{.Title}}]({{.URL}}) - ({{humanize .PublishedAt}})
+- [`{{.Title}}`]({{.URL}}) - ({{humanize .PublishedAt}})
 {{end}}
 
 
-#### Contacting me?
-
-Want to hire me for a project? want to colab on something? or do you just want to say hi?
-
-- Email: [`contact@kieranklukas.com`](mailto:contact@kieranklukas.com)
-- I'm also sometimes on Matrix!: [`@kieran:dumpsterfire.icu`](https://matrix.to/#/@kieran.matrix.dumpsterfire.icu)
-
----
+#### 📡 my [_`hackatime`_](https://waka.hackclub.com) stats
 
 ```text
 💬 Languages:
 {{ wakatimeData.Languages | wakatimeCategoryBar 5 }}
+```
+
+#### ✉️ Want to Contact me?
+
+```text
+Email: me@dunkirk.sh
+Matrix: @kieran:dumpsterfire.icu
 ```
