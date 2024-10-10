@@ -1,4 +1,4 @@
-### Hi 👋, I'm Kieran Klukas - A 16 year old homeschooler
+### ✌️ Hi! I'm a 16 year old homeschooler and coder!
 
 When I'm not doing school or working on a project, I enjoy flying drones and making videos on my YouTube channel, [_`A Wanderer's Archives`_](https://youtube.com/@wanderer.archives).
 
@@ -7,7 +7,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 - [`{{.Repo.Name}}`]({{.Repo.URL}}) - _"{{.Repo.Description}}"_ ({{humanize .OccurredAt}})
 {{- end}}
 
-#### 🌱 My latest projects
+#### ⌨️ My latest projects
 {{range recentCreatedRepos "kcoderhtml" 4}}
 - [`{{.Name}}`]({{.URL}}) - _"{{.Description}}"_
 {{- end}}
