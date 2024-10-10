@@ -1,51 +1,49 @@
-### Hi 👋, I'm Kieran Klukas - A digital explorer
+### Hi 👋, I'm Kieran Klukas - A 16 year old homeschooler
 
-Welcome to my GitHub profile! My name is Kieran Klukas, and I am a homeschooler, digital explorer, Homelaber, Videographer, and GNU/UNIX freak.
+When I'm not doing school or working on a project, I enjoy flying drones and making videos on my YouTube channel, [_`A Wanderer's Archives`_](https://youtube.com/@wanderer.archives).
 
-When I'm not doing school or working on a project, I enjoy flying drones and making videos on my YouTube channel, [A Wanderer's Archives](https://youtube.com/@wanderer.archives).
+#### 👷 The latest repos i've pushed to
 
-#### 👷 Check out what I'm currently working on
-
-- [dots](https://github.com/kcoderhtml/dots) - Kieran's opinionated (and probably slightly dumb) nix config (2 days ago)
-- [hours-in-public](https://github.com/kcoderhtml/hours-in-public) - the form for 10 hours in public! (2 days ago)
-- [crushDB](https://github.com/kcoderhtml/crushDB) - Rainbow tables babyyyyyy! (4 days ago)
-- [orcophobia](https://github.com/kcoderhtml/orcophobia) - a simple html + css site for the spooky boba manor (4 days ago)
-- [ink](https://github.com/kcoderhtml/ink) - a simple way to log http requests (5 days ago)
-- [channelping](https://github.com/kcoderhtml/channelping) - easily create a ping group for the channel (5 days ago)
-- [nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS (6 days ago)
-- [led-matrix](https://github.com/kcoderhtml/led-matrix) - a matrix of epic led porportions (6 days ago)
+- [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ (2 days ago)
+- [`hours-in-public`](https://github.com/kcoderhtml/hours-in-public) - _"the form for 10 hours in public!"_ (2 days ago)
+- [`crushDB`](https://github.com/kcoderhtml/crushDB) - _"Rainbow tables babyyyyyy!"_ (4 days ago)
+- [`orcophobia`](https://github.com/kcoderhtml/orcophobia) - _"a simple html + css site for the spooky boba manor"_ (4 days ago)
+- [`ink`](https://github.com/kcoderhtml/ink) - _"a simple way to log http requests"_ (5 days ago)
+- [`channelping`](https://github.com/kcoderhtml/channelping) - _"easily create a ping group for the channel"_ (5 days ago)
+- [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _"Nix Packages collection & NixOS"_ (6 days ago)
+- [`led-matrix`](https://github.com/kcoderhtml/led-matrix) - _"a matrix of epic led porportions"_ (6 days ago)
 
 #### 🌱 My latest projects
 
-- [crushDB](https://github.com/kcoderhtml/crushDB) - Rainbow tables babyyyyyy!
-- [ink](https://github.com/kcoderhtml/ink) - a simple way to log http requests
-- [orcophobia](https://github.com/kcoderhtml/orcophobia) - a simple html + css site for the spooky boba manor
-- [hours-in-public](https://github.com/kcoderhtml/hours-in-public) - the form for 10 hours in public!
+- [`crushDB`](https://github.com/kcoderhtml/crushDB) - _"Rainbow tables babyyyyyy!"_
+- [`ink`](https://github.com/kcoderhtml/ink) - _"a simple way to log http requests"_
+- [`orcophobia`](https://github.com/kcoderhtml/orcophobia) - _"a simple html + css site for the spooky boba manor"_
+- [`hours-in-public`](https://github.com/kcoderhtml/hours-in-public) - _"the form for 10 hours in public!"_
 
-#### 📺 A few of my latest videos
+#### 📺 my latest videos hot off the yt rss feed
 
-- [Hackatime how to!](https://www.youtube.com/watch?v=eKoD9yyr1To) - (3 weeks ago)
+- [`Hackatime how to!`](https://www.youtube.com/watch?v=eKoD9yyr1To) - (3 weeks ago)
 
-- [when you just can't resist the spot #frc #robotics #hopefullycinematic](https://www.youtube.com/watch?v=Y7SZ_TDleGM) - (1 month ago)
+- [`when you just can't resist the spot #frc #robotics #hopefullycinematic`](https://www.youtube.com/watch?v=Y7SZ_TDleGM) - (1 month ago)
 
-- [the little led cube that kinda could](https://www.youtube.com/watch?v=um7v7Y04vGw) - (2 months ago)
+- [`the little led cube that kinda could`](https://www.youtube.com/watch?v=um7v7Y04vGw) - (2 months ago)
 
 
 
-#### Contacting me?
-
-Want to hire me for a project? want to colab on something? or do you just want to say hi?
-
-- Email: [`contact@kieranklukas.com`](mailto:contact@kieranklukas.com)
-- I'm also sometimes on Matrix!: [`@kieran:dumpsterfire.icu`](https://matrix.to/#/@kieran.matrix.dumpsterfire.icu)
-
----
+#### 📡 my [_`hackatime`_](https://waka.hackclub.com) stats
 
 ```text
 💬 Languages:
-TypeScript   4h 38m 31s   █░░░░░░░░░░░░░░░░░░░░░░░░  39.37%
-Go           3h 52m 42s   █░░░░░░░░░░░░░░░░░░░░░░░░  32.89%
-Astro        53m 35s      █░░░░░░░░░░░░░░░░░░░░░░░░  7.57%
-Markdown     43m 8s       █░░░░░░░░░░░░░░░░░░░░░░░░  6.10%
-Smarty       31m 16s      █░░░░░░░░░░░░░░░░░░░░░░░░  4.42%
+TypeScript   4h 38m 23s   █░░░░░░░░░░░░░░░░░░░░░░░░  39.09%
+Go           3h 52m 42s   █░░░░░░░░░░░░░░░░░░░░░░░░  32.67%
+Astro        53m 35s      █░░░░░░░░░░░░░░░░░░░░░░░░  7.52%
+Markdown     45m 29s      █░░░░░░░░░░░░░░░░░░░░░░░░  6.39%
+Smarty       37m 9s       █░░░░░░░░░░░░░░░░░░░░░░░░  5.22%
+```
+
+#### ✉️ Want to Contact me?
+
+```text
+Email: me@dunkirk.sh
+Matrix: @kieran:dumpsterfire.icu
 ```
