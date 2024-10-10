@@ -12,7 +12,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 - [`{{.Name}}`]({{.URL}}) - _"{{.Description}}"_
 {{- end}}
 
-#### 📺 my latest videos hot off the yt rss feed
+#### 📹 my latest videos hot off the yt rss feed
 {{range rss "https://www.youtube.com/feeds/videos.xml?channel_id=UCqUR4LXv4SviSy3_lUyE7hw" 3}}
 - [`{{.Title}}`]({{.URL}}) **({{humanize .PublishedAt}})**
 {{end}}
@@ -21,11 +21,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 #### 📡 my [_`hackatime`_](https://waka.hackclub.com) stats
 
 ```text
-💬 Languages:
+💾 Languages:
 {{ wakatimeData.Languages | wakatimeCategoryBar 5 }}
 ```
 
-#### ✉️ Want to Contact me?
+#### 📮 Want to Contact me?
 
 ```text
 Email: me@dunkirk.sh
