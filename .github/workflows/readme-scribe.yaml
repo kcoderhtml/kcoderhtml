@@ -18,7 +18,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           WAKATIME_URL: ${{ secrets.WAKATIME_URL }}
-        run: markscribe templates/README.md.tpl -write README.md
+        run: ~/go/bin/markscribe templates/README.md.tpl -write README.md
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         env:
