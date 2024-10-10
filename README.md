@@ -1,4 +1,4 @@
-### Hi 👋, I'm Kieran Klukas - A 16 year old homeschooler
+### ✌️ Hi! I'm a 16 year old homeschooler and coder!
 
 When I'm not doing school or working on a project, I enjoy flying drones and making videos on my YouTube channel, [_`A Wanderer's Archives`_](https://youtube.com/@wanderer.archives).
 
@@ -13,7 +13,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 - [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _"Nix Packages collection & NixOS"_ (6 days ago)
 - [`led-matrix`](https://github.com/kcoderhtml/led-matrix) - _"a matrix of epic led porportions"_ (6 days ago)
 
-#### 🌱 My latest projects
+#### ⌨️ My latest projects
 
 - [`crushDB`](https://github.com/kcoderhtml/crushDB) - _"Rainbow tables babyyyyyy!"_
 - [`ink`](https://github.com/kcoderhtml/ink) - _"a simple way to log http requests"_
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💬 Languages:
-TypeScript   4h 38m 23s   █░░░░░░░░░░░░░░░░░░░░░░░░  39.09%
-Go           3h 52m 42s   █░░░░░░░░░░░░░░░░░░░░░░░░  32.67%
-Astro        53m 35s      █░░░░░░░░░░░░░░░░░░░░░░░░  7.52%
-Markdown     45m 29s      █░░░░░░░░░░░░░░░░░░░░░░░░  6.39%
-Smarty       37m 9s       █░░░░░░░░░░░░░░░░░░░░░░░░  5.22%
+TypeScript   4h 38m 23s   █░░░░░░░░░░░░░░░░░░░░░░░░  38.75%
+Go           3h 52m 42s   █░░░░░░░░░░░░░░░░░░░░░░░░  32.39%
+Astro        53m 35s      █░░░░░░░░░░░░░░░░░░░░░░░░  7.46%
+Markdown     45m 29s      █░░░░░░░░░░░░░░░░░░░░░░░░  6.33%
+Smarty       43m 24s      █░░░░░░░░░░░░░░░░░░░░░░░░  6.04%
 ```
 
 #### ✉️ Want to Contact me?
