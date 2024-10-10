@@ -20,7 +20,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 - [`orcophobia`](https://github.com/kcoderhtml/orcophobia) - _"a simple html + css site for the spooky boba manor"_
 - [`hours-in-public`](https://github.com/kcoderhtml/hours-in-public) - _"the form for 10 hours in public!"_
 
-#### 📺 my latest videos hot off the yt rss feed
+#### 📹 my latest videos hot off the yt rss feed
 
 - [`Hackatime how to!`](https://www.youtube.com/watch?v=eKoD9yyr1To) **(3 weeks ago)**
 
@@ -33,15 +33,15 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 #### 📡 my [_`hackatime`_](https://waka.hackclub.com) stats
 
 ```text
-💬 Languages:
-TypeScript   4h 38m 23s   █░░░░░░░░░░░░░░░░░░░░░░░░  38.63%
-Go           3h 53m 49s   █░░░░░░░░░░░░░░░░░░░░░░░░  32.45%
-Astro        53m 35s      █░░░░░░░░░░░░░░░░░░░░░░░░  7.44%
-Markdown     45m 29s      █░░░░░░░░░░░░░░░░░░░░░░░░  6.31%
-Smarty       44m 22s      █░░░░░░░░░░░░░░░░░░░░░░░░  6.16%
+💾 Languages:
+TypeScript   4h 38m 23s   █░░░░░░░░░░░░░░░░░░░░░░░░  38.50%
+Go           3h 53m 49s   █░░░░░░░░░░░░░░░░░░░░░░░░  32.34%
+Astro        53m 35s      █░░░░░░░░░░░░░░░░░░░░░░░░  7.41%
+Smarty       46m 51s      █░░░░░░░░░░░░░░░░░░░░░░░░  6.48%
+Markdown     45m 29s      █░░░░░░░░░░░░░░░░░░░░░░░░  6.29%
 ```
 
-#### ✉️ Want to Contact me?
+#### 📮 Want to Contact me?
 
 ```text
 Email: me@dunkirk.sh
