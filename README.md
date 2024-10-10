@@ -1,6 +1,6 @@
 ### ✌️ Hi! I'm a 16 year old homeschooler and coder!
 
-When I'm not doing school or working on a project, I enjoy flying drones and making videos on my YouTube channel, [_`A Wanderer's Archives`_](https://youtube.com/@wanderer.archives).
+When I'm not doing school or working on a project, I enjoy flying drones and making videos on my YouTube channel, **[_`A Wanderer's Archives`_](https://youtube.com/@wanderer.archives)**.
 
 #### 👷 The latest repos i've pushed to
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript   4h 38m 23s   ██████████░░░░░░░░░░░░░░░  38.06%
-Go           3h 56m 44s   █████████░░░░░░░░░░░░░░░░  32.37%
-Astro        53m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.33%
-Smarty       51m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.03%
-Markdown     49m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.78%
+TypeScript   4h 38m 23s   ██████████░░░░░░░░░░░░░░░  37.96%
+Go           3h 56m 44s   █████████░░░░░░░░░░░░░░░░  32.28%
+Astro        53m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.31%
+Smarty       53m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.29%
+Markdown     49m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.76%
 ```
 
 #### 📮 Want to Contact me?
@@ -48,4 +48,4 @@ Email: me@dunkirk.sh
 Matrix: @kieran:dumpsterfire.icu
 ```
 
-_readme auto updates via [`kcoderhtml/markscribe`](https://github.com/kcoderhtml/markscribe)_
+_readme auto updates via **[`kcoderhtml/markscribe`](https://github.com/kcoderhtml/markscribe)**_
