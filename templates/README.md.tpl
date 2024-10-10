@@ -32,4 +32,4 @@ Email: me@dunkirk.sh
 Matrix: @kieran:dumpsterfire.icu
 ```
 
-_readme auto updates via **[`kcoderhtml/markscribe`](https://github.com/kcoderhtml/markscribe)**_
+_readme auto updates on the hours via **[`kcoderhtml/markscribe`](https://github.com/kcoderhtml/markscribe)**_
