@@ -4,7 +4,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 {{range recentContributions 8}}
-- [`{{.Repo.Name}}`]({{.Repo.URL}}) - _"{{.Repo.Description}}"_ ({{humanize .OccurredAt}})
+- [`{{.Repo.Name}}`]({{.Repo.URL}}) - _"{{.Repo.Description}}"_ **({{humanize .OccurredAt}})**
 {{- end}}
 
 #### ⌨️ My latest projects
@@ -14,7 +14,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 📺 my latest videos hot off the yt rss feed
 {{range rss "https://www.youtube.com/feeds/videos.xml?channel_id=UCqUR4LXv4SviSy3_lUyE7hw" 3}}
-- [`{{.Title}}`]({{.URL}}) - ({{humanize .PublishedAt}})
+- [`{{.Title}}`]({{.URL}}) **({{humanize .PublishedAt}})**
 {{end}}
 
 
