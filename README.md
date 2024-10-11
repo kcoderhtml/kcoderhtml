@@ -4,14 +4,14 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
+- [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v(whatever.0)"_ **(today)**
 - [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`hours-in-public`](https://github.com/kcoderhtml/hours-in-public) - _"the form for 10 hours in public!"_ **(3 days ago)**
 - [`crushDB`](https://github.com/kcoderhtml/crushDB) - _"Rainbow tables babyyyyyy!"_ **(5 days ago)**
-- [`channelping`](https://github.com/kcoderhtml/channelping) - _"easily create a ping group for the channel"_ **(6 days ago)**
 - [`ink`](https://github.com/kcoderhtml/ink) - _"a simple way to log http requests"_ **(6 days ago)**
+- [`channelping`](https://github.com/kcoderhtml/channelping) - _"easily create a ping group for the channel"_ **(6 days ago)**
 - [`led-matrix`](https://github.com/kcoderhtml/led-matrix) - _"a matrix of epic led porportions"_ **(1 week ago)**
 - [`dns`](https://github.com/hackclub/dns) - _"🕹 Manage Hack Club's DNS through a GitHub repository"_ **(1 week ago)**
-- [`site`](https://github.com/hackclub/site) - _"🌈 The new, new Hack Club website (uses Next.js & Theme UI)."_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript   4h 33m 36s   █████████░░░░░░░░░░░░░░░░  34.42%
-Go           3h 56m 44s   ████████░░░░░░░░░░░░░░░░░  29.79%
-Smarty       58m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.40%
-Markdown     58m 4s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.31%
-Astro        53m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.74%
+TypeScript   4h 26m 45s   █████████░░░░░░░░░░░░░░░░  32.32%
+Go           3h 56m 44s   ████████░░░░░░░░░░░░░░░░░  28.68%
+Smarty       58m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.13%
+Markdown     58m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.09%
+Astro        53m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.49%
 ```
 
 #### 📮 Want to Contact me?
