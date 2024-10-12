@@ -8,8 +8,8 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 - [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
 - [`hours-in-public`](https://github.com/kcoderhtml/hours-in-public) - _"the form for 10 hours in public!"_ **(4 days ago)**
 - [`crushDB`](https://github.com/kcoderhtml/crushDB) - _"Rainbow tables babyyyyyy!"_ **(6 days ago)**
-- [`ink`](https://github.com/kcoderhtml/ink) - _"a simple way to log http requests"_ **(1 week ago)**
 - [`channelping`](https://github.com/kcoderhtml/channelping) - _"easily create a ping group for the channel"_ **(1 week ago)**
+- [`ink`](https://github.com/kcoderhtml/ink) - _"a simple way to log http requests"_ **(1 week ago)**
 - [`led-matrix`](https://github.com/kcoderhtml/led-matrix) - _"a matrix of epic led porportions"_ **(1 week ago)**
 - [`dns`](https://github.com/hackclub/dns) - _"🕹 Manage Hack Club's DNS through a GitHub repository"_ **(1 week ago)**
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript   4h 8m 0s     ██████░░░░░░░░░░░░░░░░░░░  22.56%
-Go           3h 56m 44s   ██████░░░░░░░░░░░░░░░░░░░  21.53%
-Markdown     3h 23m 20s   █████░░░░░░░░░░░░░░░░░░░░  18.50%
-CSS          1h 34m 32s   ███░░░░░░░░░░░░░░░░░░░░░░  8.60%
-HTML         1h 21m 9s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.38%
+TypeScript   4h 8m 0s     ██████░░░░░░░░░░░░░░░░░░░  21.59%
+Go           3h 56m 44s   ██████░░░░░░░░░░░░░░░░░░░  20.61%
+Markdown     3h 24m 17s   █████░░░░░░░░░░░░░░░░░░░░  17.78%
+CSS          2h 15m 19s   ███░░░░░░░░░░░░░░░░░░░░░░  11.78%
+HTML         1h 28m 59s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.75%
 ```
 
 #### 📮 Want to Contact me?
