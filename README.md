@@ -11,7 +11,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 - [`crushDB`](https://github.com/kcoderhtml/crushDB) - _"Rainbow tables babyyyyyy!"_ **(1 week ago)**
 - [`orcophobia`](https://github.com/kcoderhtml/orcophobia) - _"a simple html + css site for the spooky boba manor"_ **(1 week ago)**
 - [`ink`](https://github.com/kcoderhtml/ink) - _"a simple way to log http requests"_ **(1 week ago)**
-- [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _"Nix Packages collection & NixOS"_ **(1 week ago)**
+- [`led-matrix`](https://github.com/kcoderhtml/led-matrix) - _"a matrix of epic led porportions"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Markdown     4h 14m 52s   ██████░░░░░░░░░░░░░░░░░░░  23.69%
-Go           3h 11m 59s   █████░░░░░░░░░░░░░░░░░░░░  17.85%
-CSS          3h 3m 41s    █████░░░░░░░░░░░░░░░░░░░░  17.08%
-TypeScript   2h 29m 42s   ████░░░░░░░░░░░░░░░░░░░░░  13.92%
-HTML         1h 51m 14s   ███░░░░░░░░░░░░░░░░░░░░░░  10.34%
+Markdown     4h 17m 12s   ██████░░░░░░░░░░░░░░░░░░░  22.86%
+Go           3h 11m 59s   █████░░░░░░░░░░░░░░░░░░░░  17.07%
+CSS          3h 3m 41s    █████░░░░░░░░░░░░░░░░░░░░  16.33%
+TypeScript   2h 59m 22s   ████░░░░░░░░░░░░░░░░░░░░░  15.94%
+HTML         2h 0m 30s    ███░░░░░░░░░░░░░░░░░░░░░░  10.71%
 ```
 
 #### 📮 Want to Contact me?
