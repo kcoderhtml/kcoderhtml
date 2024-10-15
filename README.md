@@ -4,8 +4,8 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
+- [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(today)**
 - [`channelping`](https://github.com/kcoderhtml/channelping) - _"easily create a ping group for the channel"_ **(3 days ago)**
-- [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(3 days ago)**
 - [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(5 days ago)**
 - [`hours-in-public`](https://github.com/kcoderhtml/hours-in-public) - _"the form for 10 hours in public!"_ **(1 week ago)**
 - [`crushDB`](https://github.com/kcoderhtml/crushDB) - _"Rainbow tables babyyyyyy!"_ **(1 week ago)**
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Markdown     3h 56m 5s    ██████░░░░░░░░░░░░░░░░░░░  22.02%
-Go           3h 17m 22s   █████░░░░░░░░░░░░░░░░░░░░  18.41%
-CSS          2h 56m 2s    █████░░░░░░░░░░░░░░░░░░░░  16.42%
-TypeScript   2h 23m 42s   ████░░░░░░░░░░░░░░░░░░░░░  13.40%
-HTML         1h 31m 9s    ███░░░░░░░░░░░░░░░░░░░░░░  8.50%
+Markdown     4h 11m 54s   ██████░░░░░░░░░░░░░░░░░░░  23.24%
+Go           3h 11m 59s   █████░░░░░░░░░░░░░░░░░░░░  17.71%
+CSS          2h 56m 2s    █████░░░░░░░░░░░░░░░░░░░░  16.24%
+TypeScript   2h 23m 42s   ████░░░░░░░░░░░░░░░░░░░░░  13.26%
+HTML         1h 32m 42s   ███░░░░░░░░░░░░░░░░░░░░░░  8.55%
 ```
 
 #### 📮 Want to Contact me?
