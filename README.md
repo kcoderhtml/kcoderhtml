@@ -9,8 +9,8 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 - [`channelping`](https://github.com/kcoderhtml/channelping) - _"easily create a ping group for the channel"_ **(5 days ago)**
 - [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 week ago)**
 - [`hours-in-public`](https://github.com/kcoderhtml/hours-in-public) - _"the form for 10 hours in public!"_ **(1 week ago)**
-- [`orcophobia`](https://github.com/kcoderhtml/orcophobia) - _"a simple html + css site for the spooky boba manor"_ **(1 week ago)**
 - [`crushDB`](https://github.com/kcoderhtml/crushDB) - _"Rainbow tables babyyyyyy!"_ **(1 week ago)**
+- [`orcophobia`](https://github.com/kcoderhtml/orcophobia) - _"a simple html + css site for the spooky boba manor"_ **(1 week ago)**
 - [`ink`](https://github.com/kcoderhtml/ink) - _"a simple way to log http requests"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
