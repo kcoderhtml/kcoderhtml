@@ -4,14 +4,14 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
+- [`hackatime-extension`](https://github.com/kcoderhtml/hackatime-extension) - _""_ **(today)**
 - [`channelping`](https://github.com/kcoderhtml/channelping) - _"easily create a ping group for the channel"_ **(today)**
 - [`hours-in-public`](https://github.com/kcoderhtml/hours-in-public) - _"the form for 10 hours in public!"_ **(today)**
-- [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(1 day ago)**
 - [`ink`](https://github.com/kcoderhtml/ink) - _"a simple way to log http requests"_ **(1 day ago)**
+- [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(1 day ago)**
 - [`led-matrix`](https://github.com/kcoderhtml/led-matrix) - _"a matrix of epic led proportions"_ **(2 days ago)**
 - [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 week ago)**
 - [`crushDB`](https://github.com/kcoderhtml/crushDB) - _"Rainbow tables babyyyyyy!"_ **(1 week ago)**
-- [`nixpkgs`](https://github.com/NixOS/nixpkgs) - _"Nix Packages collection & NixOS"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript   4h 36m 49s   █████████░░░░░░░░░░░░░░░░  35.85%
-Markdown     2h 25m 42s   █████░░░░░░░░░░░░░░░░░░░░  18.87%
-CSS          2h 23m 1s    █████░░░░░░░░░░░░░░░░░░░░  18.52%
-HTML         1h 23m 49s   ███░░░░░░░░░░░░░░░░░░░░░░  10.86%
-Go           40m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.23%
+TypeScript   4h 46m 18s   ██████████░░░░░░░░░░░░░░░  37.23%
+Markdown     2h 23m 40s   █████░░░░░░░░░░░░░░░░░░░░  18.68%
+CSS          2h 19m 5s    █████░░░░░░░░░░░░░░░░░░░░  18.09%
+HTML         1h 12m 59s   ███░░░░░░░░░░░░░░░░░░░░░░  9.49%
+Go           40m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.25%
 ```
 
 #### 📮 Want to Contact me?
