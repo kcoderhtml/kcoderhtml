@@ -4,14 +4,14 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(1 day ago)**
+- [`channelping`](https://github.com/kcoderhtml/channelping) - _"easily create a ping group for the channel"_ **(today)**
 - [`ink`](https://github.com/kcoderhtml/ink) - _"a simple way to log http requests"_ **(1 day ago)**
+- [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(1 day ago)**
 - [`led-matrix`](https://github.com/kcoderhtml/led-matrix) - _"a matrix of epic led proportions"_ **(2 days ago)**
-- [`channelping`](https://github.com/kcoderhtml/channelping) - _"easily create a ping group for the channel"_ **(6 days ago)**
 - [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 week ago)**
 - [`hours-in-public`](https://github.com/kcoderhtml/hours-in-public) - _"the form for 10 hours in public!"_ **(1 week ago)**
-- [`orcophobia`](https://github.com/kcoderhtml/orcophobia) - _"a simple html + css site for the spooky boba manor"_ **(1 week ago)**
 - [`crushDB`](https://github.com/kcoderhtml/crushDB) - _"Rainbow tables babyyyyyy!"_ **(1 week ago)**
+- [`orcophobia`](https://github.com/kcoderhtml/orcophobia) - _"a simple html + css site for the spooky boba manor"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Markdown     3h 57m 33s   ███████░░░░░░░░░░░░░░░░░░  26.96%
-TypeScript   3h 39m 15s   ███████░░░░░░░░░░░░░░░░░░  24.89%
-CSS          3h 3m 41s    ██████░░░░░░░░░░░░░░░░░░░  20.85%
-HTML         1h 51m 33s   ████░░░░░░░░░░░░░░░░░░░░░  12.66%
-Go           31m 49s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.61%
+TypeScript   3h 54m 49s   ███████░░░░░░░░░░░░░░░░░░  26.57%
+Markdown     3h 52m 6s    ███████░░░░░░░░░░░░░░░░░░  26.26%
+CSS          3h 2m 28s    ██████░░░░░░░░░░░░░░░░░░░  20.65%
+HTML         1h 50m 47s   ████░░░░░░░░░░░░░░░░░░░░░  12.54%
+Go           31m 49s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.60%
 ```
 
 #### 📮 Want to Contact me?
