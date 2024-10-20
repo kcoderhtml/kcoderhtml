@@ -5,7 +5,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 #### 👷 The latest repos i've pushed to
 
 - [`hours-in-public`](https://github.com/kcoderhtml/hours-in-public) - _"the form for 10 hours in public!"_ **(2 days ago)**
-- [`hackatime-extension`](https://github.com/kcoderhtml/hackatime-extension) - _""_ **(2 days ago)**
+- [`hackatime-extension`](https://github.com/kcoderhtml/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(2 days ago)**
 - [`channelping`](https://github.com/kcoderhtml/channelping) - _"easily create a ping group for the channel"_ **(2 days ago)**
 - [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(3 days ago)**
 - [`ink`](https://github.com/kcoderhtml/ink) - _"a simple way to log http requests"_ **(3 days ago)**
@@ -15,7 +15,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### ⌨️ My latest projects
 
-- [`hackatime-extension`](https://github.com/kcoderhtml/hackatime-extension) - _""_
+- [`hackatime-extension`](https://github.com/kcoderhtml/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_
 - [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_
 - [`crushDB`](https://github.com/kcoderhtml/crushDB) - _"Rainbow tables babyyyyyy!"_
 - [`ink`](https://github.com/kcoderhtml/ink) - _"a simple way to log http requests"_
@@ -34,8 +34,8 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript   4h 54m 17s   ██████████████░░░░░░░░░░░  53.02%
-Markdown     1h 21m 13s   ████░░░░░░░░░░░░░░░░░░░░░  14.63%
+TypeScript   4h 54m 12s   ██████████████░░░░░░░░░░░  53.02%
+Markdown     1h 21m 13s   ████░░░░░░░░░░░░░░░░░░░░░  14.64%
 HTML         44m 58s      ███░░░░░░░░░░░░░░░░░░░░░░  8.10%
 Go           40m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.27%
 JSON         31m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.75%
