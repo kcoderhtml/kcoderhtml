@@ -4,14 +4,14 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
+- [`hackatime-extension`](https://github.com/kcoderhtml/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(today)**
 - [`hours-in-public`](https://github.com/kcoderhtml/hours-in-public) - _"the form for 10 hours in public!"_ **(3 days ago)**
-- [`hackatime-extension`](https://github.com/kcoderhtml/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(3 days ago)**
 - [`channelping`](https://github.com/kcoderhtml/channelping) - _"easily create a ping group for the channel"_ **(3 days ago)**
-- [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(4 days ago)**
 - [`ink`](https://github.com/kcoderhtml/ink) - _"a simple way to log http requests"_ **(4 days ago)**
+- [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(4 days ago)**
 - [`led-matrix`](https://github.com/kcoderhtml/led-matrix) - _"a matrix of epic led proportions"_ **(5 days ago)**
 - [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 week ago)**
-- [`orcophobia`](https://github.com/kcoderhtml/orcophobia) - _"a simple html + css site for the spooky boba manor"_ **(2 weeks ago)**
+- [`crushDB`](https://github.com/kcoderhtml/crushDB) - _"Rainbow tables babyyyyyy!"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript   4h 52m 32s   ██████████████░░░░░░░░░░░  54.99%
-Markdown     1h 0m 1s     ███░░░░░░░░░░░░░░░░░░░░░░  11.28%
-HTML         44m 58s      ███░░░░░░░░░░░░░░░░░░░░░░  8.45%
-Go           40m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.59%
-JSON         31m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.00%
+TypeScript   4h 54m 32s   ██████████████░░░░░░░░░░░  55.16%
+Markdown     1h 0m 1s     ███░░░░░░░░░░░░░░░░░░░░░░  11.24%
+HTML         44m 58s      ███░░░░░░░░░░░░░░░░░░░░░░  8.42%
+Go           40m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.56%
+JSON         31m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.98%
 ```
 
 #### 📮 Want to Contact me?
