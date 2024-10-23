@@ -4,13 +4,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
-- [`hackatime-extension`](https://github.com/kcoderhtml/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(1 day ago)**
-- [`channelping`](https://github.com/kcoderhtml/channelping) - _"easily create a ping group for the channel"_ **(4 days ago)**
-- [`hours-in-public`](https://github.com/kcoderhtml/hours-in-public) - _"the form for 10 hours in public!"_ **(4 days ago)**
-- [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(5 days ago)**
-- [`ink`](https://github.com/kcoderhtml/ink) - _"a simple way to log http requests"_ **(5 days ago)**
-- [`led-matrix`](https://github.com/kcoderhtml/led-matrix) - _"a matrix of epic led proportions"_ **(6 days ago)**
+- [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`hackatime-extension`](https://github.com/kcoderhtml/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(2 days ago)**
+- [`channelping`](https://github.com/kcoderhtml/channelping) - _"easily create a ping group for the channel"_ **(5 days ago)**
+- [`hours-in-public`](https://github.com/kcoderhtml/hours-in-public) - _"the form for 10 hours in public!"_ **(5 days ago)**
+- [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(6 days ago)**
+- [`ink`](https://github.com/kcoderhtml/ink) - _"a simple way to log http requests"_ **(6 days ago)**
+- [`led-matrix`](https://github.com/kcoderhtml/led-matrix) - _"a matrix of epic led proportions"_ **(1 week ago)**
 - [`orcophobia`](https://github.com/kcoderhtml/orcophobia) - _"a simple html + css site for the spooky boba manor"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
@@ -22,7 +22,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 🍿 my latest videos hot off the yt rss feed
 
-- [`A Matrix that couldn't play`](https://www.youtube.com/watch?v=NodwjZF7uZw) **(6 days ago)**
+- [`A Matrix that couldn't play`](https://www.youtube.com/watch?v=NodwjZF7uZw) **(1 week ago)**
 
 - [`Hackatime how to!`](https://www.youtube.com/watch?v=eKoD9yyr1To) **(1 month ago)**
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript   4h 50m 12s   ███████████████░░░░░░░░░░  57.61%
-Go           1h 10m 9s    ████░░░░░░░░░░░░░░░░░░░░░  13.93%
-unknown      27m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.40%
-JSON         25m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.05%
-HTML         21m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.35%
+TypeScript   4h 49m 31s   ████████████████░░░░░░░░░  60.27%
+Go           55m 42s      ███░░░░░░░░░░░░░░░░░░░░░░  11.59%
+unknown      27m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.63%
+JSON         25m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.30%
+Markdown     21m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.50%
 ```
 
 #### 📮 Want to Contact me?
