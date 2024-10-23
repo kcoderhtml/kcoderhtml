@@ -4,14 +4,14 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
+- [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(today)**
+- [`hackatime-extension`](https://github.com/kcoderhtml/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(today)**
 - [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
-- [`hackatime-extension`](https://github.com/kcoderhtml/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(2 days ago)**
-- [`channelping`](https://github.com/kcoderhtml/channelping) - _"easily create a ping group for the channel"_ **(5 days ago)**
 - [`hours-in-public`](https://github.com/kcoderhtml/hours-in-public) - _"the form for 10 hours in public!"_ **(5 days ago)**
-- [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(6 days ago)**
+- [`channelping`](https://github.com/kcoderhtml/channelping) - _"easily create a ping group for the channel"_ **(5 days ago)**
 - [`ink`](https://github.com/kcoderhtml/ink) - _"a simple way to log http requests"_ **(6 days ago)**
 - [`led-matrix`](https://github.com/kcoderhtml/led-matrix) - _"a matrix of epic led proportions"_ **(1 week ago)**
-- [`orcophobia`](https://github.com/kcoderhtml/orcophobia) - _"a simple html + css site for the spooky boba manor"_ **(2 weeks ago)**
+- [`crushDB`](https://github.com/kcoderhtml/crushDB) - _"Rainbow tables babyyyyyy!"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript   5h 4m 37s   ████████████████░░░░░░░░░  60.34%
-Go           49m 21s     ███░░░░░░░░░░░░░░░░░░░░░░  9.78%
-unknown      27m 3s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.36%
-HTML         26m 13s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.19%
-JSON         25m 26s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.04%
+TypeScript   5h 37m 56s   ████████████████░░░░░░░░░  60.69%
+Go           49m 21s      ███░░░░░░░░░░░░░░░░░░░░░░  8.86%
+Markdown     37m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.77%
+unknown      27m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.86%
+HTML         26m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.76%
 ```
 
 #### 📮 Want to Contact me?
