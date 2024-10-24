@@ -4,12 +4,12 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(today)**
-- [`hackatime-extension`](https://github.com/kcoderhtml/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(today)**
-- [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
-- [`hours-in-public`](https://github.com/kcoderhtml/hours-in-public) - _"the form for 10 hours in public!"_ **(5 days ago)**
-- [`channelping`](https://github.com/kcoderhtml/channelping) - _"easily create a ping group for the channel"_ **(5 days ago)**
-- [`ink`](https://github.com/kcoderhtml/ink) - _"a simple way to log http requests"_ **(6 days ago)**
+- [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(1 day ago)**
+- [`hackatime-extension`](https://github.com/kcoderhtml/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(1 day ago)**
+- [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`hours-in-public`](https://github.com/kcoderhtml/hours-in-public) - _"the form for 10 hours in public!"_ **(6 days ago)**
+- [`channelping`](https://github.com/kcoderhtml/channelping) - _"easily create a ping group for the channel"_ **(6 days ago)**
+- [`ink`](https://github.com/kcoderhtml/ink) - _"a simple way to log http requests"_ **(1 week ago)**
 - [`led-matrix`](https://github.com/kcoderhtml/led-matrix) - _"a matrix of epic led proportions"_ **(1 week ago)**
 - [`crushDB`](https://github.com/kcoderhtml/crushDB) - _"Rainbow tables babyyyyyy!"_ **(2 weeks ago)**
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript   7h 42m 8s   █████████████████░░░░░░░░  66.02%
-Go           49m 21s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.05%
-Markdown     40m 49s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.83%
-JSON         39m 44s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.68%
-HTML         27m 14s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.89%
+TypeScript   7h 30m 20s   █████████████████░░░░░░░░  66.85%
+Go           49m 21s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.33%
+Markdown     40m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.06%
+JSON         39m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.90%
+HTML         27m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.04%
 ```
 
 #### 📮 Want to Contact me?
