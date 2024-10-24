@@ -4,8 +4,8 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
+- [`hackatime-extension`](https://github.com/kcoderhtml/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(today)**
 - [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
-- [`hackatime-extension`](https://github.com/kcoderhtml/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(1 day ago)**
 - [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(1 day ago)**
 - [`hours-in-public`](https://github.com/kcoderhtml/hours-in-public) - _"the form for 10 hours in public!"_ **(6 days ago)**
 - [`channelping`](https://github.com/kcoderhtml/channelping) - _"easily create a ping group for the channel"_ **(6 days ago)**
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript   7h 15m 55s   █████████████████░░░░░░░░  66.34%
-Go           49m 21s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.51%
-Markdown     40m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.21%
-JSON         39m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.05%
-HTML         27m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.14%
+TypeScript   7h 37m 45s   █████████████████░░░░░░░░  66.95%
+Go           49m 21s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.22%
+Markdown     40m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.97%
+JSON         40m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.89%
+HTML         27m 14s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.98%
 ```
 
 #### 📮 Want to Contact me?
