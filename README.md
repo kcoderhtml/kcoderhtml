@@ -4,21 +4,21 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`hackatime-extension`](https://github.com/kcoderhtml/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(today)**
-- [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(1 day ago)**
-- [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
-- [`hours-in-public`](https://github.com/kcoderhtml/hours-in-public) - _"the form for 10 hours in public!"_ **(6 days ago)**
-- [`channelping`](https://github.com/kcoderhtml/channelping) - _"easily create a ping group for the channel"_ **(6 days ago)**
+- [`hackatime-extension`](https://github.com/kcoderhtml/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(1 day ago)**
+- [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(2 days ago)**
+- [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
+- [`hours-in-public`](https://github.com/kcoderhtml/hours-in-public) - _"the form for 10 hours in public!"_ **(1 week ago)**
+- [`channelping`](https://github.com/kcoderhtml/channelping) - _"easily create a ping group for the channel"_ **(1 week ago)**
 - [`ink`](https://github.com/kcoderhtml/ink) - _"a simple way to log http requests"_ **(1 week ago)**
 - [`led-matrix`](https://github.com/kcoderhtml/led-matrix) - _"a matrix of epic led proportions"_ **(1 week ago)**
 - [`crushDB`](https://github.com/kcoderhtml/crushDB) - _"Rainbow tables babyyyyyy!"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
 
+- [`hilton-honors`](https://github.com/kcoderhtml/hilton-honors) - _""_
 - [`hackatime-extension`](https://github.com/kcoderhtml/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_
 - [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_
 - [`crushDB`](https://github.com/kcoderhtml/crushDB) - _"Rainbow tables babyyyyyy!"_
-- [`ink`](https://github.com/kcoderhtml/ink) - _"a simple way to log http requests"_
 
 #### 🍿 my latest videos hot off the yt rss feed
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript   9h 49m 31s   ██████████████████░░░░░░░  71.00%
-Go           43m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.20%
-JSON         38m 30s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.64%
-unknown      29m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.50%
-HTML         27m 8s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.27%
+TypeScript        9h 33m 28s   ██████████████████░░░░░░░  69.69%
+Go                43m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.24%
+JSON              38m 40s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.70%
+Markdown          32m 26s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.94%
+unknown           29m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.52%
 ```
 
 #### 📮 Want to Contact me?
