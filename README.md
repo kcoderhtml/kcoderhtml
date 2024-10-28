@@ -4,10 +4,10 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`hackatime-extension`](https://github.com/kcoderhtml/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(1 day ago)**
-- [`hilton-honors`](https://github.com/kcoderhtml/hilton-honors) - _"decompiled hilton honors app"_ **(3 days ago)**
-- [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(4 days ago)**
-- [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(4 days ago)**
+- [`hackatime-extension`](https://github.com/kcoderhtml/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(2 days ago)**
+- [`hilton-honors`](https://github.com/kcoderhtml/hilton-honors) - _"decompiled hilton honors app"_ **(4 days ago)**
+- [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(5 days ago)**
+- [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(5 days ago)**
 - [`channelping`](https://github.com/kcoderhtml/channelping) - _"easily create a ping group for the channel"_ **(1 week ago)**
 - [`hours-in-public`](https://github.com/kcoderhtml/hours-in-public) - _"the form for 10 hours in public!"_ **(1 week ago)**
 - [`ink`](https://github.com/kcoderhtml/ink) - _"a simple way to log http requests"_ **(1 week ago)**
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript        8h 38m 18s   ████████████████░░░░░░░░░  63.20%
-sprig             57m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.03%
-Go                50m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.19%
-Markdown          46m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.65%
-blot              45m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.59%
+TypeScript        8h 38m 18s   ████████████████░░░░░░░░░  61.11%
+sprig             1h 25m 39s   ███░░░░░░░░░░░░░░░░░░░░░░  10.10%
+Go                50m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.99%
+Markdown          46m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.46%
+blot              45m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.41%
 ```
 
 #### 📮 Want to Contact me?
