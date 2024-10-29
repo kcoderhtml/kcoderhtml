@@ -8,8 +8,8 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 - [`hilton-honors`](https://github.com/kcoderhtml/hilton-honors) - _"decompiled hilton honors app"_ **(5 days ago)**
 - [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(6 days ago)**
 - [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(6 days ago)**
-- [`hours-in-public`](https://github.com/kcoderhtml/hours-in-public) - _"the form for 10 hours in public!"_ **(1 week ago)**
 - [`channelping`](https://github.com/kcoderhtml/channelping) - _"easily create a ping group for the channel"_ **(1 week ago)**
+- [`hours-in-public`](https://github.com/kcoderhtml/hours-in-public) - _"the form for 10 hours in public!"_ **(1 week ago)**
 - [`ink`](https://github.com/kcoderhtml/ink) - _"a simple way to log http requests"_ **(1 week ago)**
 - [`led-matrix`](https://github.com/kcoderhtml/led-matrix) - _"a matrix of epic led proportions"_ **(1 week ago)**
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript        7h 12m 34s   ██████████████░░░░░░░░░░░  54.89%
-sprig             1h 43m 38s   ████░░░░░░░░░░░░░░░░░░░░░  13.15%
-blot              45m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.82%
-Markdown          41m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.32%
-Astro             32m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.16%
+TypeScript        7h 14m 50s   ██████████████░░░░░░░░░░░  54.88%
+sprig             1h 43m 38s   ████░░░░░░░░░░░░░░░░░░░░░  13.08%
+blot              45m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.79%
+Markdown          41m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.29%
+Astro             32m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.14%
 ```
 
 #### 📮 Want to Contact me?
