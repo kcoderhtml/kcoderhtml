@@ -4,13 +4,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`hackatime-extension`](https://github.com/kcoderhtml/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(2 days ago)**
-- [`hilton-honors`](https://github.com/kcoderhtml/hilton-honors) - _"decompiled hilton honors app"_ **(6 days ago)**
+- [`hackatime-extension`](https://github.com/kcoderhtml/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(3 days ago)**
+- [`hilton-honors`](https://github.com/kcoderhtml/hilton-honors) - _"decompiled hilton honors app"_ **(1 week ago)**
 - [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 week ago)**
 - [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(1 week ago)**
 - [`hours-in-public`](https://github.com/kcoderhtml/hours-in-public) - _"the form for 10 hours in public!"_ **(1 week ago)**
 - [`channelping`](https://github.com/kcoderhtml/channelping) - _"easily create a ping group for the channel"_ **(1 week ago)**
-- [`ink`](https://github.com/kcoderhtml/ink) - _"a simple way to log http requests"_ **(1 week ago)**
+- [`ink`](https://github.com/kcoderhtml/ink) - _"a simple way to log http requests"_ **(2 weeks ago)**
 - [`led-matrix`](https://github.com/kcoderhtml/led-matrix) - _"a matrix of epic led proportions"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript        5h 51m 20s   █████████████░░░░░░░░░░░░  48.68%
-sprig             1h 43m 38s   ████░░░░░░░░░░░░░░░░░░░░░  14.36%
-blot              45m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.36%
-PowerShell        40m 23s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.60%
-Go                36m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.09%
+TypeScript        6h 3m 31s    █████████████░░░░░░░░░░░░  49.46%
+sprig             1h 43m 38s   ████░░░░░░░░░░░░░░░░░░░░░  14.10%
+blot              45m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.24%
+PowerShell        41m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.64%
+Go                36m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.00%
 ```
 
 #### 📮 Want to Contact me?
