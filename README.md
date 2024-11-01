@@ -4,14 +4,14 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`ink`](https://github.com/kcoderhtml/ink) - _"a simple way to log http requests"_ **(today)**
+- [`roblox-chcker`](https://github.com/kcoderhtml/roblox-chcker) - _""_ **(today)**
 - [`hackatime-extension`](https://github.com/kcoderhtml/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(today)**
 - [`astro-cloudinary`](https://github.com/cloudinary-community/astro-cloudinary) - _"🚀 High-performance image and video delivery and uploading at scale in Astro powered by Cloudinary."_ **(today)**
-- [`roblox-chcker`](https://github.com/kcoderhtml/roblox-chcker) - _""_ **(today)**
+- [`ink`](https://github.com/kcoderhtml/ink) - _"a simple way to log http requests"_ **(today)**
 - [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(1 day ago)**
 - [`hilton-honors`](https://github.com/kcoderhtml/hilton-honors) - _"decompiled hilton honors app"_ **(1 week ago)**
 - [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 week ago)**
-- [`channelping`](https://github.com/kcoderhtml/channelping) - _"easily create a ping group for the channel"_ **(2 weeks ago)**
+- [`hours-in-public`](https://github.com/kcoderhtml/hours-in-public) - _"the form for 10 hours in public!"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript   4h 23m 41s   █████████░░░░░░░░░░░░░░░░  33.11%
-Markdown     2h 8m 53s    █████░░░░░░░░░░░░░░░░░░░░  16.18%
-sprig        1h 46m 9s    ████░░░░░░░░░░░░░░░░░░░░░  13.33%
-unknown      1h 6m 29s    ███░░░░░░░░░░░░░░░░░░░░░░  8.35%
-Go           47m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.97%
+TypeScript   5h 22m 33s   ██████████░░░░░░░░░░░░░░░  37.71%
+Markdown     2h 8m 55s    ████░░░░░░░░░░░░░░░░░░░░░  15.07%
+sprig        1h 46m 9s    ████░░░░░░░░░░░░░░░░░░░░░  12.41%
+unknown      1h 6m 29s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.77%
+Go           47m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.56%
 ```
 
 #### 📮 Want to Contact me?
