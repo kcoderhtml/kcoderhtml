@@ -18,7 +18,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 {{end}}
 
 
-#### 📡 my [_`hackatime`_](https://waka.hackclub.com) stats
+#### 📡 my [_`hackatime`_](https://waka.hackclub.com) stats from the last week
 
 ```text
 💾 Languages:
