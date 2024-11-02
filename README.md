@@ -4,7 +4,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`roblox-chcker`](https://github.com/kcoderhtml/roblox-chcker) - _""_ **(1 day ago)**
+- [`roblox-chcker`](https://github.com/kcoderhtml/roblox-chcker) - _"A tui username checker and whatever other tools i add"_ **(1 day ago)**
 - [`hackatime-extension`](https://github.com/kcoderhtml/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(1 day ago)**
 - [`ink`](https://github.com/kcoderhtml/ink) - _"a simple way to log http requests"_ **(1 day ago)**
 - [`hackatime-scripts`](https://github.com/kcoderhtml/hackatime-scripts) - _""_ **(1 day ago)**
@@ -16,7 +16,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 #### ⌨️ My latest projects
 
 - [`hackatime-scripts`](https://github.com/kcoderhtml/hackatime-scripts) - _""_
-- [`roblox-chcker`](https://github.com/kcoderhtml/roblox-chcker) - _""_
+- [`roblox-chcker`](https://github.com/kcoderhtml/roblox-chcker) - _"A tui username checker and whatever other tools i add"_
 - [`hilton-honors`](https://github.com/kcoderhtml/hilton-honors) - _"decompiled hilton honors app"_
 - [`hackatime-extension`](https://github.com/kcoderhtml/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript   5h 33m 57s   ██████████░░░░░░░░░░░░░░░  39.18%
-Markdown     2h 7m 14s    ████░░░░░░░░░░░░░░░░░░░░░  14.93%
-sprig        1h 46m 9s    ████░░░░░░░░░░░░░░░░░░░░░  12.45%
-unknown      1h 5m 35s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.69%
-PowerShell   41m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.87%
+TypeScript   5h 34m 6s   ██████████░░░░░░░░░░░░░░░  39.01%
+Markdown     2h 7m 14s   ████░░░░░░░░░░░░░░░░░░░░░  14.86%
+sprig        1h 46m 9s   ████░░░░░░░░░░░░░░░░░░░░░  12.40%
+unknown      1h 5m 35s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.66%
+PowerShell   41m 29s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.84%
 ```
 
 #### 📮 Want to Contact me?
