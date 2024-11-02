@@ -5,13 +5,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 #### 👷 The latest repos i've pushed to
 
 - [`roblox-chcker`](https://github.com/kcoderhtml/roblox-chcker) - _""_ **(1 day ago)**
-- [`ink`](https://github.com/kcoderhtml/ink) - _"a simple way to log http requests"_ **(1 day ago)**
 - [`hackatime-extension`](https://github.com/kcoderhtml/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(1 day ago)**
+- [`ink`](https://github.com/kcoderhtml/ink) - _"a simple way to log http requests"_ **(1 day ago)**
+- [`hackatime-scripts`](https://github.com/kcoderhtml/hackatime-scripts) - _""_ **(1 day ago)**
+- [`astro-cloudinary`](https://github.com/cloudinary-community/astro-cloudinary) - _"🚀 High-performance image and video delivery and uploading at scale in Astro powered by Cloudinary."_ **(1 day ago)**
 - [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(2 days ago)**
+- [`hilton-honors`](https://github.com/kcoderhtml/hilton-honors) - _"decompiled hilton honors app"_ **(1 week ago)**
 - [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 week ago)**
-- [`channelping`](https://github.com/kcoderhtml/channelping) - _"easily create a ping group for the channel"_ **(2 weeks ago)**
-- [`hours-in-public`](https://github.com/kcoderhtml/hours-in-public) - _"the form for 10 hours in public!"_ **(2 weeks ago)**
-- [`led-matrix`](https://github.com/kcoderhtml/led-matrix) - _"a matrix of epic led proportions"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
 
@@ -30,7 +30,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 
 
-#### 📡 my [_`hackatime`_](https://waka.hackclub.com) stats
+#### 📡 my [_`hackatime`_](https://waka.hackclub.com) stats from the last week
 
 ```text
 💾 Languages:
