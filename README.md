@@ -4,14 +4,14 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
+- [`goodwill-snipper`](https://github.com/kcoderhtml/goodwill-snipper) - _"a really solid bun based snipper"_ **(1 day ago)**
 - [`roblox-chcker`](https://github.com/kcoderhtml/roblox-chcker) - _"A tui username checker and whatever other tools i add"_ **(2 days ago)**
-- [`hackatime-extension`](https://github.com/kcoderhtml/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(3 days ago)**
-- [`hackatime-scripts`](https://github.com/kcoderhtml/hackatime-scripts) - _""_ **(3 days ago)**
 - [`astro-cloudinary`](https://github.com/cloudinary-community/astro-cloudinary) - _"🚀 High-performance image and video delivery and uploading at scale in Astro powered by Cloudinary."_ **(3 days ago)**
 - [`ink`](https://github.com/kcoderhtml/ink) - _"a simple way to log http requests"_ **(3 days ago)**
+- [`hackatime-scripts`](https://github.com/kcoderhtml/hackatime-scripts) - _""_ **(3 days ago)**
+- [`hackatime-extension`](https://github.com/kcoderhtml/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(3 days ago)**
 - [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(4 days ago)**
 - [`hilton-honors`](https://github.com/kcoderhtml/hilton-honors) - _"decompiled hilton honors app"_ **(1 week ago)**
-- [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
