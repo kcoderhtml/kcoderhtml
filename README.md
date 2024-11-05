@@ -10,12 +10,12 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 - [`ink`](https://github.com/kcoderhtml/ink) - _"a simple way to log http requests"_ **(4 days ago)**
 - [`astro-cloudinary`](https://github.com/cloudinary-community/astro-cloudinary) - _"🚀 High-performance image and video delivery and uploading at scale in Astro powered by Cloudinary."_ **(4 days ago)**
 - [`hackatime-extension`](https://github.com/kcoderhtml/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(4 days ago)**
-- [`hackatime-scripts`](https://github.com/kcoderhtml/hackatime-scripts) - _""_ **(4 days ago)**
+- [`hackatime-scripts`](https://github.com/kcoderhtml/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(4 days ago)**
 - [`hilton-honors`](https://github.com/kcoderhtml/hilton-honors) - _"decompiled hilton honors app"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
-- [`hackatime-scripts`](https://github.com/kcoderhtml/hackatime-scripts) - _""_
+- [`hackatime-scripts`](https://github.com/kcoderhtml/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_
 - [`roblox-chcker`](https://github.com/kcoderhtml/roblox-chcker) - _"A tui username checker and whatever other tools i add"_
 - [`hilton-honors`](https://github.com/kcoderhtml/hilton-honors) - _"decompiled hilton honors app"_
 - [`hackatime-extension`](https://github.com/kcoderhtml/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_
