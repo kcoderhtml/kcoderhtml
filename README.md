@@ -4,13 +4,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
+- [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(today)**
 - [`goodwill-snipper`](https://github.com/kcoderhtml/goodwill-snipper) - _"a really solid bun based snipper"_ **(2 days ago)**
 - [`roblox-chcker`](https://github.com/kcoderhtml/roblox-chcker) - _"A tui username checker and whatever other tools i add"_ **(3 days ago)**
 - [`ink`](https://github.com/kcoderhtml/ink) - _"a simple way to log http requests"_ **(4 days ago)**
+- [`astro-cloudinary`](https://github.com/cloudinary-community/astro-cloudinary) - _"🚀 High-performance image and video delivery and uploading at scale in Astro powered by Cloudinary."_ **(4 days ago)**
 - [`hackatime-extension`](https://github.com/kcoderhtml/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(4 days ago)**
 - [`hackatime-scripts`](https://github.com/kcoderhtml/hackatime-scripts) - _""_ **(4 days ago)**
-- [`astro-cloudinary`](https://github.com/cloudinary-community/astro-cloudinary) - _"🚀 High-performance image and video delivery and uploading at scale in Astro powered by Cloudinary."_ **(4 days ago)**
-- [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(5 days ago)**
 - [`hilton-honors`](https://github.com/kcoderhtml/hilton-honors) - _"decompiled hilton honors app"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript   7h 11m 47s   ███████████████░░░░░░░░░░  56.81%
-Markdown     1h 57m 0s    ████░░░░░░░░░░░░░░░░░░░░░  15.39%
-unknown      1h 0m 56s    ███░░░░░░░░░░░░░░░░░░░░░░  8.02%
-PowerShell   31m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.17%
-Go           29m 54s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.93%
+TypeScript   7h 7m 17s   ███████████████░░░░░░░░░░  56.60%
+Markdown     1h 59m 9s   ████░░░░░░░░░░░░░░░░░░░░░  15.78%
+unknown      1h 0m 56s   ███░░░░░░░░░░░░░░░░░░░░░░  8.07%
+Go           29m 54s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.96%
+HTML         29m 2s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.85%
 ```
 
 #### 📮 Want to Contact me?
