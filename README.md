@@ -4,13 +4,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
+- [`hackatime-scripts`](https://github.com/kcoderhtml/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(today)**
 - [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(2 days ago)**
 - [`goodwill-snipper`](https://github.com/kcoderhtml/goodwill-snipper) - _"a really solid bun based snipper"_ **(4 days ago)**
 - [`roblox-chcker`](https://github.com/kcoderhtml/roblox-chcker) - _"A tui username checker and whatever other tools i add"_ **(5 days ago)**
+- [`hackatime-extension`](https://github.com/kcoderhtml/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(6 days ago)**
 - [`ink`](https://github.com/kcoderhtml/ink) - _"a simple way to log http requests"_ **(6 days ago)**
 - [`astro-cloudinary`](https://github.com/cloudinary-community/astro-cloudinary) - _"🚀 High-performance image and video delivery and uploading at scale in Astro powered by Cloudinary."_ **(6 days ago)**
-- [`hackatime-extension`](https://github.com/kcoderhtml/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(6 days ago)**
-- [`hackatime-scripts`](https://github.com/kcoderhtml/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(6 days ago)**
 - [`hilton-honors`](https://github.com/kcoderhtml/hilton-honors) - _"decompiled hilton honors app"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript   8h 1m 1s    █████████████████░░░░░░░░  64.40%
-Markdown     2h 0m 16s   █████░░░░░░░░░░░░░░░░░░░░  16.10%
-unknown      42m 57s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.75%
-HTML         27m 53s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.73%
-Go           23m 38s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.16%
+TypeScript   8h 24m 24s   █████████████████░░░░░░░░  65.48%
+Markdown     2h 0m 16s    ████░░░░░░░░░░░░░░░░░░░░░  15.61%
+unknown      42m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.58%
+HTML         27m 53s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.62%
+Go           23m 38s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.07%
 ```
 
 #### 📮 Want to Contact me?
