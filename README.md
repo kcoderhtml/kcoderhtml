@@ -4,14 +4,14 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`hackatime-scripts`](https://github.com/kcoderhtml/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(today)**
-- [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(2 days ago)**
-- [`goodwill-snipper`](https://github.com/kcoderhtml/goodwill-snipper) - _"a really solid bun based snipper"_ **(4 days ago)**
-- [`roblox-chcker`](https://github.com/kcoderhtml/roblox-chcker) - _"A tui username checker and whatever other tools i add"_ **(5 days ago)**
-- [`hackatime-extension`](https://github.com/kcoderhtml/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(6 days ago)**
-- [`ink`](https://github.com/kcoderhtml/ink) - _"a simple way to log http requests"_ **(6 days ago)**
-- [`astro-cloudinary`](https://github.com/cloudinary-community/astro-cloudinary) - _"🚀 High-performance image and video delivery and uploading at scale in Astro powered by Cloudinary."_ **(6 days ago)**
-- [`hilton-honors`](https://github.com/kcoderhtml/hilton-honors) - _"decompiled hilton honors app"_ **(2 weeks ago)**
+- [`hackatime-scripts`](https://github.com/kcoderhtml/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(1 day ago)**
+- [`dns`](https://github.com/hackclub/dns) - _"🕹 Manage Hack Club's DNS through a GitHub repository"_ **(1 day ago)**
+- [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(3 days ago)**
+- [`goodwill-snipper`](https://github.com/kcoderhtml/goodwill-snipper) - _"a really solid bun based snipper"_ **(5 days ago)**
+- [`roblox-chcker`](https://github.com/kcoderhtml/roblox-chcker) - _"A tui username checker and whatever other tools i add"_ **(6 days ago)**
+- [`hackatime-extension`](https://github.com/kcoderhtml/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(1 week ago)**
+- [`astro-cloudinary`](https://github.com/cloudinary-community/astro-cloudinary) - _"🚀 High-performance image and video delivery and uploading at scale in Astro powered by Cloudinary."_ **(1 week ago)**
+- [`ink`](https://github.com/kcoderhtml/ink) - _"a simple way to log http requests"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript   9h 21m 46s   █████████████████████░░░░  83.18%
-unknown      42m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.29%
-Go           23m 38s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.50%
-Markdown     20m 50s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.08%
-YAML         4m 39s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.69%
+TypeScript   10h 17m 36s   ███████████████████████░░  90.00%
+Go           23m 38s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.44%
+Markdown     17m 23s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.53%
+unknown      5m 15s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.77%
+YAML         4m 39s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.68%
 ```
 
 #### 📮 Want to Contact me?
