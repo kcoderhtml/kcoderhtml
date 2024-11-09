@@ -4,12 +4,12 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
-- [`hackatime-scripts`](https://github.com/kcoderhtml/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(1 day ago)**
-- [`dns`](https://github.com/hackclub/dns) - _"🕹 Manage Hack Club's DNS through a GitHub repository"_ **(1 day ago)**
-- [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(3 days ago)**
-- [`goodwill-snipper`](https://github.com/kcoderhtml/goodwill-snipper) - _"a really solid bun based snipper"_ **(5 days ago)**
-- [`roblox-chcker`](https://github.com/kcoderhtml/roblox-chcker) - _"A tui username checker and whatever other tools i add"_ **(6 days ago)**
+- [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`hackatime-scripts`](https://github.com/kcoderhtml/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(2 days ago)**
+- [`dns`](https://github.com/hackclub/dns) - _"🕹 Manage Hack Club's DNS through a GitHub repository"_ **(2 days ago)**
+- [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(4 days ago)**
+- [`goodwill-snipper`](https://github.com/kcoderhtml/goodwill-snipper) - _"a really solid bun based snipper"_ **(6 days ago)**
+- [`roblox-chcker`](https://github.com/kcoderhtml/roblox-chcker) - _"A tui username checker and whatever other tools i add"_ **(1 week ago)**
 - [`hackatime-extension`](https://github.com/kcoderhtml/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(1 week ago)**
 - [`astro-cloudinary`](https://github.com/cloudinary-community/astro-cloudinary) - _"🚀 High-performance image and video delivery and uploading at scale in Astro powered by Cloudinary."_ **(1 week ago)**
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript   9h 33m 22s   ███████████████████████░░  91.02%
-Go           22m 45s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.61%
-Markdown     9m 58s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.58%
-YAML         5m 30s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.87%
-HTML         5m 25s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.86%
+TypeScript   9h 21m 52s   ███████████████████████░░  91.18%
+Go           20m 45s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.37%
+Markdown     9m 58s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.62%
+YAML         5m 30s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.89%
+HTML         5m 25s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.88%
 ```
 
 #### 📮 Want to Contact me?
