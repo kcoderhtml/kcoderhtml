@@ -4,14 +4,14 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
-- [`hackatime-scripts`](https://github.com/kcoderhtml/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(2 days ago)**
+- [`hackatime-scripts`](https://github.com/kcoderhtml/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(today)**
+- [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
 - [`dns`](https://github.com/hackclub/dns) - _"🕹 Manage Hack Club's DNS through a GitHub repository"_ **(2 days ago)**
 - [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(4 days ago)**
 - [`goodwill-snipper`](https://github.com/kcoderhtml/goodwill-snipper) - _"a really solid bun based snipper"_ **(6 days ago)**
 - [`roblox-chcker`](https://github.com/kcoderhtml/roblox-chcker) - _"A tui username checker and whatever other tools i add"_ **(1 week ago)**
-- [`hackatime-extension`](https://github.com/kcoderhtml/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(1 week ago)**
 - [`astro-cloudinary`](https://github.com/cloudinary-community/astro-cloudinary) - _"🚀 High-performance image and video delivery and uploading at scale in Astro powered by Cloudinary."_ **(1 week ago)**
+- [`hackatime-extension`](https://github.com/kcoderhtml/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript   9h 9m 3s   ███████████████████████░░  91.00%
-Go           20m 45s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.44%
-Markdown     9m 58s     █░░░░░░░░░░░░░░░░░░░░░░░░  1.65%
-YAML         5m 30s     █░░░░░░░░░░░░░░░░░░░░░░░░  0.91%
-HTML         5m 25s     █░░░░░░░░░░░░░░░░░░░░░░░░  0.90%
+TypeScript   9h 8m 18s   ███████████████████████░░  90.99%
+Go           20m 45s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.44%
+Markdown     9m 58s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.65%
+YAML         5m 30s      █░░░░░░░░░░░░░░░░░░░░░░░░  0.91%
+HTML         5m 25s      █░░░░░░░░░░░░░░░░░░░░░░░░  0.90%
 ```
 
 #### 📮 Want to Contact me?
