@@ -4,13 +4,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
+- [`magicsnap`](https://github.com/kcoderhtml/magicsnap) - _"a opensouce teamsnap clone :)"_ **(today)**
 - [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(today)**
 - [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`hackatime-scripts`](https://github.com/kcoderhtml/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(1 day ago)**
 - [`dns`](https://github.com/hackclub/dns) - _"🕹 Manage Hack Club's DNS through a GitHub repository"_ **(3 days ago)**
 - [`goodwill-snipper`](https://github.com/kcoderhtml/goodwill-snipper) - _"a really solid bun based snipper"_ **(1 week ago)**
 - [`roblox-chcker`](https://github.com/kcoderhtml/roblox-chcker) - _"A tui username checker and whatever other tools i add"_ **(1 week ago)**
-- [`ink`](https://github.com/kcoderhtml/ink) - _"a simple way to log http requests"_ **(1 week ago)**
 - [`hackatime-extension`](https://github.com/kcoderhtml/hackatime-extension) - _"the future most epic chrome / firefox / edge / vivaldi / opera extension ever!!!"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript   8h 20m 45s   ███████████████████████░░  89.82%
-Go           28m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.19%
-Markdown     7m 28s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.34%
-HTML         7m 16s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.30%
-YAML         5m 30s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.99%
+TypeScript   8h 20m 45s   ██████████████████████░░░  84.66%
+Go           30m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.22%
+Markdown     28m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.86%
+Astro        10m 35s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.79%
+HTML         7m 16s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.23%
 ```
 
 #### 📮 Want to Contact me?
