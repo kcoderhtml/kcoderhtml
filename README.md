@@ -4,9 +4,9 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
+- [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
 - [`magicsnap`](https://github.com/kcoderhtml/magicsnap) - _"a opensouce teamsnap clone :)"_ **(1 day ago)**
 - [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(1 day ago)**
-- [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
 - [`hackatime-scripts`](https://github.com/kcoderhtml/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(2 days ago)**
 - [`dns`](https://github.com/hackclub/dns) - _"🕹 Manage Hack Club's DNS through a GitHub repository"_ **(4 days ago)**
 - [`goodwill-snipper`](https://github.com/kcoderhtml/goodwill-snipper) - _"a really solid bun based snipper"_ **(1 week ago)**
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript   8h 17m 42s   █████████████████████░░░░  83.82%
-Go           29m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.91%
-Markdown     28m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.84%
-Astro        17m 42s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.98%
-HTML         7m 16s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.22%
+TypeScript   8h 36m 37s   ██████████████████████░░░  84.27%
+Go           29m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.76%
+Markdown     28m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.69%
+Astro        18m 4s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.95%
+HTML         7m 16s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.19%
 ```
 
 #### 📮 Want to Contact me?
