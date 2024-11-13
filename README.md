@@ -4,21 +4,21 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
+- [`pip`](https://github.com/kcoderhtml/pip) - _"yet another ssh pastes project"_ **(today)**
 - [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(today)**
-- [`grolf`](https://github.com/kcoderhtml/grolf) - _"hackclub's beloved arcade helper!"_ **(1 day ago)**
-- [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`kreva-template`](https://github.com/kcoderhtml/kreva-template) - _"a quirky slackbot template"_ **(1 day ago)**
+- [`grolf`](https://github.com/kcoderhtml/grolf) - _"hackclub's beloved arcade helper!"_ **(1 day ago)**
 - [`kreva`](https://github.com/kcoderhtml/kreva) - _"She comes to haunt your channels (nicely)"_ **(1 day ago)**
-- [`hackatime-scripts`](https://github.com/kcoderhtml/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(2 days ago)**
+- [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(2 days ago)**
-- [`magicsnap`](https://github.com/kcoderhtml/magicsnap) - _"a opensouce teamsnap clone :)"_ **(3 days ago)**
+- [`hackatime-scripts`](https://github.com/kcoderhtml/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(2 days ago)**
 
 #### ⌨️ My latest projects
 
+- [`pip`](https://github.com/kcoderhtml/pip) - _"yet another ssh pastes project"_
 - [`kreva-template`](https://github.com/kcoderhtml/kreva-template) - _"a quirky slackbot template"_
 - [`kreva`](https://github.com/kcoderhtml/kreva) - _"She comes to haunt your channels (nicely)"_
 - [`hackatime-scripts`](https://github.com/kcoderhtml/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_
-- [`roblox-chcker`](https://github.com/kcoderhtml/roblox-chcker) - _"A tui username checker and whatever other tools i add"_
 
 #### 🍿 my latest videos hot off the yt rss feed
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript   5h 25m 43s   ████████████████████░░░░░  78.76%
-Go           29m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.05%
-Markdown     26m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.48%
-Astro        10m 35s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.56%
-HTML         5m 51s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.41%
+TypeScript   5h 17m 35s   ████████████████████░░░░░  78.33%
+Go           29m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.19%
+Markdown     26m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.61%
+Astro        10m 35s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.61%
+HTML         5m 51s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.44%
 ```
 
 #### 📮 Want to Contact me?
