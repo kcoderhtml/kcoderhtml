@@ -5,13 +5,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 #### 👷 The latest repos i've pushed to
 
 - [`pip`](https://github.com/kcoderhtml/pip) - _"yet another ssh pastes project"_ **(today)**
+- [`riceathon`](https://github.com/hackclub/riceathon) - _"Upcoming Hack Club YSWS where you can rice your Linux desktop and submit your dotfiles to get free programmer socks"_ **(today)**
 - [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(1 day ago)**
-- [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
 - [`grolf`](https://github.com/kcoderhtml/grolf) - _"hackclub's beloved arcade helper!"_ **(2 days ago)**
-- [`kreva`](https://github.com/kcoderhtml/kreva) - _"She comes to haunt your channels (nicely)"_ **(2 days ago)**
 - [`kreva-template`](https://github.com/kcoderhtml/kreva-template) - _"a quirky slackbot template"_ **(2 days ago)**
+- [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
+- [`kreva`](https://github.com/kcoderhtml/kreva) - _"She comes to haunt your channels (nicely)"_ **(2 days ago)**
 - [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(3 days ago)**
-- [`hackatime-scripts`](https://github.com/kcoderhtml/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(3 days ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,10 +34,10 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript   4h 59m 42s   █████████████░░░░░░░░░░░░  49.30%
-Go           2h 47m 28s   ███████░░░░░░░░░░░░░░░░░░  27.55%
-Markdown     1h 18m 4s    ████░░░░░░░░░░░░░░░░░░░░░  12.84%
-YAML         17m 28s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.87%
+TypeScript   4h 59m 42s   █████████████░░░░░░░░░░░░  49.14%
+Go           2h 49m 28s   ███████░░░░░░░░░░░░░░░░░░  27.78%
+Markdown     1h 18m 4s    ████░░░░░░░░░░░░░░░░░░░░░  12.80%
+YAML         17m 28s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.86%
 Astro        10m 35s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.74%
 ```
 
