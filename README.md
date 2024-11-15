@@ -4,25 +4,25 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`pip`](https://github.com/kcoderhtml/pip) - _"yet another ssh pastes project"_ **(today)**
-- [`riceathon`](https://github.com/hackclub/riceathon) - _"Upcoming Hack Club YSWS where you can rice your Linux desktop and submit your dotfiles to get free programmer socks"_ **(today)**
-- [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(1 day ago)**
-- [`grolf`](https://github.com/kcoderhtml/grolf) - _"hackclub's beloved arcade helper!"_ **(2 days ago)**
-- [`kreva-template`](https://github.com/kcoderhtml/kreva-template) - _"a quirky slackbot template"_ **(2 days ago)**
-- [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
-- [`kreva`](https://github.com/kcoderhtml/kreva) - _"She comes to haunt your channels (nicely)"_ **(2 days ago)**
-- [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(3 days ago)**
+- [`pip`](https://github.com/kcoderhtml/pip) - _"yet another ssh pastes project"_ **(1 day ago)**
+- [`riceathon`](https://github.com/hackclub/riceathon) - _"Upcoming Hack Club YSWS where you can rice your Linux desktop and submit your dotfiles to get free programmer socks"_ **(1 day ago)**
+- [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(2 days ago)**
+- [`grolf`](https://github.com/kcoderhtml/grolf) - _"hackclub's beloved arcade helper!"_ **(3 days ago)**
+- [`kreva-template`](https://github.com/kcoderhtml/kreva-template) - _"a quirky slackbot template"_ **(3 days ago)**
+- [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
+- [`kreva`](https://github.com/kcoderhtml/kreva) - _"She comes to haunt your channels (nicely)"_ **(3 days ago)**
+- [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(4 days ago)**
 
 #### ⌨️ My latest projects
 
+- [`guesslang`](https://github.com/kcoderhtml/guesslang) - _""_
 - [`pip`](https://github.com/kcoderhtml/pip) - _"yet another ssh pastes project"_
 - [`kreva-template`](https://github.com/kcoderhtml/kreva-template) - _"a quirky slackbot template"_
 - [`kreva`](https://github.com/kcoderhtml/kreva) - _"She comes to haunt your channels (nicely)"_
-- [`hackatime-scripts`](https://github.com/kcoderhtml/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_
 
 #### 🍿 my latest videos hot off the yt rss feed
 
-- [`A Matrix that couldn't play`](https://www.youtube.com/watch?v=NodwjZF7uZw) **(4 weeks ago)**
+- [`A Matrix that couldn't play`](https://www.youtube.com/watch?v=NodwjZF7uZw) **(1 month ago)**
 
 - [`Hackatime how to!`](https://www.youtube.com/watch?v=eKoD9yyr1To) **(1 month ago)**
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript   3h 43m 43s   ███████████░░░░░░░░░░░░░░  41.90%
-Go           2h 49m 28s   ████████░░░░░░░░░░░░░░░░░  31.74%
-Markdown     1h 18m 4s    ████░░░░░░░░░░░░░░░░░░░░░  14.62%
-YAML         17m 28s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.27%
-Astro        10m 35s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.98%
+Go           3h 2m 33s    ██████████░░░░░░░░░░░░░░░  36.30%
+TypeScript   2h 49m 26s   █████████░░░░░░░░░░░░░░░░  33.69%
+Markdown     1h 18m 4s    ████░░░░░░░░░░░░░░░░░░░░░  15.52%
+YAML         18m 45s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.73%
+Astro        10m 35s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.10%
 ```
 
 #### 📮 Want to Contact me?
