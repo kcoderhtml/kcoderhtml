@@ -4,21 +4,21 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`guesslang`](https://github.com/kcoderhtml/guesslang) - _""_ **(3 days ago)**
+- [`madbadger`](https://github.com/kcoderhtml/madbadger) - _"MadBadger :3"_ **(today)**
 - [`pip`](https://github.com/kcoderhtml/pip) - _"yet another ssh pastes project"_ **(3 days ago)**
+- [`guesslang`](https://github.com/kcoderhtml/guesslang) - _"docker compose guesslang api server"_ **(3 days ago)**
 - [`riceathon`](https://github.com/hackclub/riceathon) - _"Upcoming Hack Club YSWS where you can rice your Linux desktop and submit your dotfiles to get free programmer socks"_ **(4 days ago)**
 - [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(5 days ago)**
-- [`kreva`](https://github.com/kcoderhtml/kreva) - _"She comes to haunt your channels (nicely)"_ **(6 days ago)**
-- [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(6 days ago)**
-- [`kreva-template`](https://github.com/kcoderhtml/kreva-template) - _"a quirky slackbot template"_ **(6 days ago)**
 - [`grolf`](https://github.com/kcoderhtml/grolf) - _"hackclub's beloved arcade helper!"_ **(6 days ago)**
+- [`kreva`](https://github.com/kcoderhtml/kreva) - _"She comes to haunt your channels (nicely)"_ **(6 days ago)**
+- [`kreva-template`](https://github.com/kcoderhtml/kreva-template) - _"a quirky slackbot template"_ **(6 days ago)**
 
 #### ⌨️ My latest projects
 
-- [`guesslang`](https://github.com/kcoderhtml/guesslang) - _""_
+- [`madbadger`](https://github.com/kcoderhtml/madbadger) - _"MadBadger :3"_
+- [`guesslang`](https://github.com/kcoderhtml/guesslang) - _"docker compose guesslang api server"_
 - [`pip`](https://github.com/kcoderhtml/pip) - _"yet another ssh pastes project"_
 - [`kreva-template`](https://github.com/kcoderhtml/kreva-template) - _"a quirky slackbot template"_
-- [`kreva`](https://github.com/kcoderhtml/kreva) - _"She comes to haunt your channels (nicely)"_
 
 #### 🍿 my latest videos hot off the yt rss feed
 
