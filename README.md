@@ -6,12 +6,12 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 - [`kreva`](https://github.com/kcoderhtml/kreva) - _"She comes to haunt your channels (nicely)"_ **(today)**
 - [`madbadger`](https://github.com/kcoderhtml/madbadger) - _"MadBadger :3"_ **(1 day ago)**
-- [`pip`](https://github.com/kcoderhtml/pip) - _"yet another ssh pastes project"_ **(4 days ago)**
 - [`guesslang`](https://github.com/kcoderhtml/guesslang) - _"docker compose guesslang api server"_ **(4 days ago)**
+- [`pip`](https://github.com/kcoderhtml/pip) - _"yet another ssh pastes project"_ **(4 days ago)**
 - [`riceathon`](https://github.com/hackclub/riceathon) - _"Upcoming Hack Club YSWS where you can rice your Linux desktop and submit your dotfiles to get free programmer socks"_ **(5 days ago)**
 - [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(6 days ago)**
-- [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 week ago)**
 - [`grolf`](https://github.com/kcoderhtml/grolf) - _"hackclub's beloved arcade helper!"_ **(1 week ago)**
+- [`kreva-template`](https://github.com/kcoderhtml/kreva-template) - _"a quirky slackbot template"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Go           4h 53m 53s   ███████████████░░░░░░░░░░  59.04%
-Markdown     1h 8m 30s    ████░░░░░░░░░░░░░░░░░░░░░  13.76%
-TypeScript   36m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.43%
-Python       35m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.06%
-YAML         21m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.22%
+Go           4h 53m 53s   ███████████████░░░░░░░░░░  58.15%
+Markdown     1h 8m 30s    ████░░░░░░░░░░░░░░░░░░░░░  13.55%
+TypeScript   40m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.92%
+Python       35m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.95%
+YAML         25m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.05%
 ```
 
 #### 📮 Want to Contact me?
