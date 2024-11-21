@@ -4,11 +4,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`kreva`](https://github.com/kcoderhtml/kreva) - _"She comes to haunt your channels (nicely)"_ **(1 day ago)**
-- [`madbadger`](https://github.com/kcoderhtml/madbadger) - _"MadBadger :3"_ **(2 days ago)**
-- [`pip`](https://github.com/kcoderhtml/pip) - _"yet another ssh pastes project"_ **(5 days ago)**
-- [`guesslang`](https://github.com/kcoderhtml/guesslang) - _"docker compose guesslang api server"_ **(5 days ago)**
-- [`riceathon`](https://github.com/hackclub/riceathon) - _"Upcoming Hack Club YSWS where you can rice your Linux desktop and submit your dotfiles to get free programmer socks"_ **(6 days ago)**
+- [`kreva`](https://github.com/kcoderhtml/kreva) - _"She comes to haunt your channels (nicely)"_ **(2 days ago)**
+- [`madbadger`](https://github.com/kcoderhtml/madbadger) - _"MadBadger :3"_ **(3 days ago)**
+- [`pip`](https://github.com/kcoderhtml/pip) - _"yet another ssh pastes project"_ **(6 days ago)**
+- [`guesslang`](https://github.com/kcoderhtml/guesslang) - _"docker compose guesslang api server"_ **(6 days ago)**
+- [`riceathon`](https://github.com/hackclub/riceathon) - _"Upcoming Hack Club YSWS where you can rice your Linux desktop and submit your dotfiles to get free programmer socks"_ **(1 week ago)**
 - [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(1 week ago)**
 - [`grolf`](https://github.com/kcoderhtml/grolf) - _"hackclub's beloved arcade helper!"_ **(1 week ago)**
 - [`kreva-template`](https://github.com/kcoderhtml/kreva-template) - _"a quirky slackbot template"_ **(1 week ago)**
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Go           4h 19m 25s   ███████████████░░░░░░░░░░  59.71%
-Markdown     1h 37m 9s    ██████░░░░░░░░░░░░░░░░░░░  22.36%
-Python       35m 7s       ███░░░░░░░░░░░░░░░░░░░░░░  8.08%
-YAML         11m 12s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.58%
-VHS          7m 38s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.76%
+Go           2h 51m 57s   █████████████░░░░░░░░░░░░  50.06%
+Markdown     1h 36m 5s    ███████░░░░░░░░░░░░░░░░░░  27.97%
+Python       35m 7s       ███░░░░░░░░░░░░░░░░░░░░░░  10.22%
+YAML         11m 12s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.26%
+HTML         7m 29s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.18%
 ```
 
 #### 📮 Want to Contact me?
