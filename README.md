@@ -4,10 +4,10 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`pip`](https://github.com/kcoderhtml/pip) - _"yet another ssh pastes project"_ **(today)**
-- [`kreva`](https://github.com/kcoderhtml/kreva) - _"She comes to haunt your channels (nicely)"_ **(2 days ago)**
-- [`madbadger`](https://github.com/kcoderhtml/madbadger) - _"MadBadger :3"_ **(3 days ago)**
-- [`guesslang`](https://github.com/kcoderhtml/guesslang) - _"docker compose guesslang api server"_ **(6 days ago)**
+- [`pip`](https://github.com/kcoderhtml/pip) - _"yet another ssh pastes project"_ **(1 day ago)**
+- [`kreva`](https://github.com/kcoderhtml/kreva) - _"She comes to haunt your channels (nicely)"_ **(3 days ago)**
+- [`madbadger`](https://github.com/kcoderhtml/madbadger) - _"MadBadger :3"_ **(4 days ago)**
+- [`guesslang`](https://github.com/kcoderhtml/guesslang) - _"docker compose guesslang api server"_ **(1 week ago)**
 - [`riceathon`](https://github.com/hackclub/riceathon) - _"Upcoming Hack Club YSWS where you can rice your Linux desktop and submit your dotfiles to get free programmer socks"_ **(1 week ago)**
 - [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(1 week ago)**
 - [`grolf`](https://github.com/kcoderhtml/grolf) - _"hackclub's beloved arcade helper!"_ **(1 week ago)**
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Go           2h 52m 53s   ██████████████░░░░░░░░░░░  52.93%
-Markdown     1h 17m 1s    ██████░░░░░░░░░░░░░░░░░░░  23.58%
-Python       35m 7s       ███░░░░░░░░░░░░░░░░░░░░░░  10.75%
-YAML         11m 12s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.43%
-HTML         9m 32s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.92%
+Go           2h 39m 55s   ██████████████░░░░░░░░░░░  52.74%
+Markdown     1h 17m 1s    ███████░░░░░░░░░░░░░░░░░░  25.40%
+Python       29m 24s      ███░░░░░░░░░░░░░░░░░░░░░░  9.70%
+YAML         9m 49s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.24%
+HTML         9m 32s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.14%
 ```
 
 #### 📮 Want to Contact me?
