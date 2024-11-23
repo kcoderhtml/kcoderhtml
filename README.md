@@ -4,9 +4,9 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`pip`](https://github.com/kcoderhtml/pip) - _"yet another ssh pastes project"_ **(1 day ago)**
-- [`kreva`](https://github.com/kcoderhtml/kreva) - _"She comes to haunt your channels (nicely)"_ **(3 days ago)**
-- [`madbadger`](https://github.com/kcoderhtml/madbadger) - _"MadBadger :3"_ **(4 days ago)**
+- [`pip`](https://github.com/kcoderhtml/pip) - _"yet another ssh pastes project"_ **(2 days ago)**
+- [`kreva`](https://github.com/kcoderhtml/kreva) - _"She comes to haunt your channels (nicely)"_ **(4 days ago)**
+- [`madbadger`](https://github.com/kcoderhtml/madbadger) - _"MadBadger :3"_ **(5 days ago)**
 - [`guesslang`](https://github.com/kcoderhtml/guesslang) - _"docker compose guesslang api server"_ **(1 week ago)**
 - [`riceathon`](https://github.com/hackclub/riceathon) - _"Upcoming Hack Club YSWS where you can rice your Linux desktop and submit your dotfiles to get free programmer socks"_ **(1 week ago)**
 - [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(1 week ago)**
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Markdown     1h 33m 18s   █████████████░░░░░░░░░░░░  50.60%
-Go           25m 8s       ████░░░░░░░░░░░░░░░░░░░░░  13.63%
-Python       24m 16s      ████░░░░░░░░░░░░░░░░░░░░░  13.16%
-JavaScript   21m 38s      ███░░░░░░░░░░░░░░░░░░░░░░  11.73%
-unknown      5m 37s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.05%
+Markdown     1h 33m 18s   ████████████░░░░░░░░░░░░░  45.02%
+JavaScript   44m 29s      ██████░░░░░░░░░░░░░░░░░░░  21.46%
+Go           25m 8s       ████░░░░░░░░░░░░░░░░░░░░░  12.13%
+Python       24m 16s      ███░░░░░░░░░░░░░░░░░░░░░░  11.71%
+unknown      5m 37s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.71%
 ```
 
 #### 📮 Want to Contact me?
