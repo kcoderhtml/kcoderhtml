@@ -4,10 +4,10 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`counterspell-berserk`](https://github.com/thelegendofmario/counterspell-berserk) - _""_ **(today)**
-- [`pip`](https://github.com/kcoderhtml/pip) - _"yet another ssh pastes project"_ **(2 days ago)**
-- [`kreva`](https://github.com/kcoderhtml/kreva) - _"She comes to haunt your channels (nicely)"_ **(4 days ago)**
-- [`madbadger`](https://github.com/kcoderhtml/madbadger) - _"MadBadger :3"_ **(5 days ago)**
+- [`counterspell-berserk`](https://github.com/thelegendofmario/counterspell-berserk) - _""_ **(1 day ago)**
+- [`pip`](https://github.com/kcoderhtml/pip) - _"yet another ssh pastes project"_ **(3 days ago)**
+- [`kreva`](https://github.com/kcoderhtml/kreva) - _"She comes to haunt your channels (nicely)"_ **(5 days ago)**
+- [`madbadger`](https://github.com/kcoderhtml/madbadger) - _"MadBadger :3"_ **(6 days ago)**
 - [`guesslang`](https://github.com/kcoderhtml/guesslang) - _"docker compose guesslang api server"_ **(1 week ago)**
 - [`riceathon`](https://github.com/hackclub/riceathon) - _"Upcoming Hack Club YSWS where you can rice your Linux desktop and submit your dotfiles to get free programmer socks"_ **(1 week ago)**
 - [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(1 week ago)**
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Markdown     2h 11m 34s   █████████████░░░░░░░░░░░░  48.74%
-JavaScript   59m 44s      ██████░░░░░░░░░░░░░░░░░░░  22.13%
-Python       24m 16s      ███░░░░░░░░░░░░░░░░░░░░░░  8.99%
-Go           23m 53s      ███░░░░░░░░░░░░░░░░░░░░░░  8.85%
-unknown      8m 19s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.08%
+Markdown     2h 11m 34s   ███████████░░░░░░░░░░░░░░  43.73%
+JavaScript   59m 44s      █████░░░░░░░░░░░░░░░░░░░░  19.85%
+Lua          35m 15s      ███░░░░░░░░░░░░░░░░░░░░░░  11.72%
+Python       24m 16s      ███░░░░░░░░░░░░░░░░░░░░░░  8.07%
+Go           23m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.94%
 ```
 
 #### 📮 Want to Contact me?
