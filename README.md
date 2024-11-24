@@ -11,7 +11,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 - [`guesslang`](https://github.com/kcoderhtml/guesslang) - _"docker compose guesslang api server"_ **(1 week ago)**
 - [`riceathon`](https://github.com/hackclub/riceathon) - _"Upcoming Hack Club YSWS where you can rice your Linux desktop and submit your dotfiles to get free programmer socks"_ **(1 week ago)**
 - [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(1 week ago)**
-- [`grolf`](https://github.com/kcoderhtml/grolf) - _"hackclub's beloved arcade helper!"_ **(1 week ago)**
+- [`kreva-template`](https://github.com/kcoderhtml/kreva-template) - _"a quirky slackbot template"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Markdown     2h 11m 34s   ███████████░░░░░░░░░░░░░░  43.73%
-JavaScript   59m 44s      █████░░░░░░░░░░░░░░░░░░░░  19.85%
-Lua          35m 15s      ███░░░░░░░░░░░░░░░░░░░░░░  11.72%
-Python       24m 16s      ███░░░░░░░░░░░░░░░░░░░░░░  8.07%
-Go           23m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.94%
+Markdown     2h 11m 34s   ███████████░░░░░░░░░░░░░░  42.89%
+Lua          52m 24s      █████░░░░░░░░░░░░░░░░░░░░  17.08%
+JavaScript   50m 28s      █████░░░░░░░░░░░░░░░░░░░░  16.45%
+Python       24m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.91%
+Go           23m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.79%
 ```
 
 #### 📮 Want to Contact me?
