@@ -4,14 +4,14 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`counterspell-berserk`](https://github.com/thelegendofmario/counterspell-berserk) - _""_ **(today)**
-- [`pip`](https://github.com/kcoderhtml/pip) - _"yet another ssh pastes project"_ **(3 days ago)**
-- [`kreva`](https://github.com/kcoderhtml/kreva) - _"She comes to haunt your channels (nicely)"_ **(5 days ago)**
-- [`madbadger`](https://github.com/kcoderhtml/madbadger) - _"MadBadger :3"_ **(6 days ago)**
+- [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`counterspell-berserk`](https://github.com/thelegendofmario/counterspell-berserk) - _""_ **(1 day ago)**
+- [`pip`](https://github.com/kcoderhtml/pip) - _"yet another ssh pastes project"_ **(4 days ago)**
+- [`kreva`](https://github.com/kcoderhtml/kreva) - _"She comes to haunt your channels (nicely)"_ **(6 days ago)**
+- [`madbadger`](https://github.com/kcoderhtml/madbadger) - _"MadBadger :3"_ **(1 week ago)**
 - [`guesslang`](https://github.com/kcoderhtml/guesslang) - _"docker compose guesslang api server"_ **(1 week ago)**
 - [`riceathon`](https://github.com/hackclub/riceathon) - _"Upcoming Hack Club YSWS where you can rice your Linux desktop and submit your dotfiles to get free programmer socks"_ **(1 week ago)**
 - [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(1 week ago)**
-- [`kreva-template`](https://github.com/kcoderhtml/kreva-template) - _"a quirky slackbot template"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Markdown     2h 11m 36s   █████████░░░░░░░░░░░░░░░░  34.75%
-Lua          2h 1m 41s    █████████░░░░░░░░░░░░░░░░  32.13%
-JavaScript   50m 28s      ████░░░░░░░░░░░░░░░░░░░░░  13.33%
-Go           26m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.95%
-Python       24m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.41%
+Lua          2h 13m 34s   █████████░░░░░░░░░░░░░░░░  34.20%
+Markdown     2h 11m 36s   █████████░░░░░░░░░░░░░░░░  33.69%
+JavaScript   50m 28s      ████░░░░░░░░░░░░░░░░░░░░░  12.92%
+Go           26m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.74%
+Python       24m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.21%
 ```
 
 #### 📮 Want to Contact me?
