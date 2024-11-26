@@ -4,10 +4,10 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`counterspell-berserk`](https://github.com/thelegendofmario/counterspell-berserk) - _""_ **(today)**
-- [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
-- [`pip`](https://github.com/kcoderhtml/pip) - _"yet another ssh pastes project"_ **(4 days ago)**
-- [`kreva`](https://github.com/kcoderhtml/kreva) - _"She comes to haunt your channels (nicely)"_ **(6 days ago)**
+- [`counterspell-berserk`](https://github.com/thelegendofmario/counterspell-berserk) - _""_ **(1 day ago)**
+- [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
+- [`pip`](https://github.com/kcoderhtml/pip) - _"yet another ssh pastes project"_ **(5 days ago)**
+- [`kreva`](https://github.com/kcoderhtml/kreva) - _"She comes to haunt your channels (nicely)"_ **(1 week ago)**
 - [`madbadger`](https://github.com/kcoderhtml/madbadger) - _"MadBadger :3"_ **(1 week ago)**
 - [`guesslang`](https://github.com/kcoderhtml/guesslang) - _"docker compose guesslang api server"_ **(1 week ago)**
 - [`riceathon`](https://github.com/hackclub/riceathon) - _"Upcoming Hack Club YSWS where you can rice your Linux desktop and submit your dotfiles to get free programmer socks"_ **(1 week ago)**
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Lua          3h 41m 6s    █████████████░░░░░░░░░░░░  49.78%
-Markdown     1h 58m 54s   ███████░░░░░░░░░░░░░░░░░░  26.77%
-JavaScript   50m 28s      ███░░░░░░░░░░░░░░░░░░░░░░  11.36%
-Go           28m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.44%
-unknown      7m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.58%
+Lua          3h 46m 56s   █████████████░░░░░░░░░░░░  50.43%
+Markdown     1h 58m 55s   ███████░░░░░░░░░░░░░░░░░░  26.43%
+JavaScript   50m 28s      ███░░░░░░░░░░░░░░░░░░░░░░  11.22%
+Go           28m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.35%
+unknown      7m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.56%
 ```
 
 #### 📮 Want to Contact me?
