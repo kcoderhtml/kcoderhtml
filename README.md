@@ -4,14 +4,14 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`counterspell-berserk`](https://github.com/thelegendofmario/counterspell-berserk) - _""_ **(1 day ago)**
-- [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
-- [`pip`](https://github.com/kcoderhtml/pip) - _"yet another ssh pastes project"_ **(5 days ago)**
+- [`counterspell-berserk`](https://github.com/thelegendofmario/counterspell-berserk) - _""_ **(2 days ago)**
+- [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
+- [`pip`](https://github.com/kcoderhtml/pip) - _"yet another ssh pastes project"_ **(6 days ago)**
 - [`kreva`](https://github.com/kcoderhtml/kreva) - _"She comes to haunt your channels (nicely)"_ **(1 week ago)**
 - [`madbadger`](https://github.com/kcoderhtml/madbadger) - _"MadBadger :3"_ **(1 week ago)**
 - [`guesslang`](https://github.com/kcoderhtml/guesslang) - _"docker compose guesslang api server"_ **(1 week ago)**
 - [`riceathon`](https://github.com/hackclub/riceathon) - _"Upcoming Hack Club YSWS where you can rice your Linux desktop and submit your dotfiles to get free programmer socks"_ **(1 week ago)**
-- [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(1 week ago)**
+- [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Lua          3h 45m 4s   █████████████░░░░░░░░░░░░  51.07%
-Markdown     2h 1m 29s   ███████░░░░░░░░░░░░░░░░░░  27.56%
-JavaScript   50m 28s     ███░░░░░░░░░░░░░░░░░░░░░░  11.45%
-Go           28m 35s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.49%
-unknown      7m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.59%
+Lua          3h 49m 48s   █████████████░░░░░░░░░░░░  51.58%
+Markdown     2h 1m 32s    ███████░░░░░░░░░░░░░░░░░░  27.28%
+JavaScript   50m 28s      ███░░░░░░░░░░░░░░░░░░░░░░  11.33%
+Go           28m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.42%
+unknown      7m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.57%
 ```
 
 #### 📮 Want to Contact me?
