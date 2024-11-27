@@ -4,6 +4,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
+- [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(today)**
 - [`counterspell-berserk`](https://github.com/thelegendofmario/counterspell-berserk) - _""_ **(2 days ago)**
 - [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
 - [`pip`](https://github.com/kcoderhtml/pip) - _"yet another ssh pastes project"_ **(6 days ago)**
@@ -11,7 +12,6 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 - [`madbadger`](https://github.com/kcoderhtml/madbadger) - _"MadBadger :3"_ **(1 week ago)**
 - [`guesslang`](https://github.com/kcoderhtml/guesslang) - _"docker compose guesslang api server"_ **(1 week ago)**
 - [`riceathon`](https://github.com/hackclub/riceathon) - _"Upcoming Hack Club YSWS where you can rice your Linux desktop and submit your dotfiles to get free programmer socks"_ **(1 week ago)**
-- [`zera`](https://github.com/kcoderhtml/zera) - _"my new site v4?"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Lua          3h 51m 43s   ██████████████░░░░░░░░░░░  52.16%
-Markdown     1h 34m 42s   ██████░░░░░░░░░░░░░░░░░░░  21.32%
-JavaScript   50m 28s      ███░░░░░░░░░░░░░░░░░░░░░░  11.36%
-Go           28m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.43%
-TypeScript   10m 35s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.38%
+Lua          3h 51m 43s   ███████████████░░░░░░░░░░  56.30%
+Markdown     1h 4m 5s     ████░░░░░░░░░░░░░░░░░░░░░  15.57%
+JavaScript   50m 28s      ████░░░░░░░░░░░░░░░░░░░░░  12.26%
+Go           28m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.94%
+TypeScript   10m 35s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.57%
 ```
 
 #### 📮 Want to Contact me?
