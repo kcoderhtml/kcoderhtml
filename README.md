@@ -4,13 +4,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`counterspell-berserk`](https://github.com/thelegendofmario/counterspell-berserk) - _"This is a game where you are your own enemy. you throw swords at your enemys, only if you miss you'll eventually go crazy and die..."_ **(today)**
-- [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
-- [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(1 day ago)**
+- [`counterspell-berserk`](https://github.com/thelegendofmario/counterspell-berserk) - _"This is a game where you are your own enemy. you throw swords at your enemys, only if you miss you'll eventually go crazy and die..."_ **(1 day ago)**
+- [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(2 days ago)**
 - [`pip`](https://github.com/kcoderhtml/pip) - _"yet another ssh pastes project"_ **(1 week ago)**
 - [`kreva`](https://github.com/kcoderhtml/kreva) - _"She comes to haunt your channels (nicely)"_ **(1 week ago)**
 - [`madbadger`](https://github.com/kcoderhtml/madbadger) - _"MadBadger :3"_ **(1 week ago)**
-- [`guesslang`](https://github.com/kcoderhtml/guesslang) - _"docker compose guesslang api server"_ **(1 week ago)**
+- [`guesslang`](https://github.com/kcoderhtml/guesslang) - _"docker compose guesslang api server"_ **(2 weeks ago)**
 - [`riceathon`](https://github.com/hackclub/riceathon) - _"Upcoming Hack Club YSWS where you can rice your Linux desktop and submit your dotfiles to get free programmer socks"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Lua          4h 38m 50s   █████████████████░░░░░░░░  65.49%
-Markdown     59m 23s      ████░░░░░░░░░░░░░░░░░░░░░  13.95%
-JavaScript   50m 28s      ███░░░░░░░░░░░░░░░░░░░░░░  11.85%
-TypeScript   10m 37s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.49%
-JSON         9m 28s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.22%
+Lua          5h 41m 48s   █████████████████░░░░░░░░  67.13%
+Markdown     59m 30s      ███░░░░░░░░░░░░░░░░░░░░░░  11.69%
+JavaScript   51m 3s       ███░░░░░░░░░░░░░░░░░░░░░░  10.03%
+Bash         23m 1s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.52%
+TypeScript   10m 37s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.09%
 ```
 
 #### 📮 Want to Contact me?
