@@ -4,7 +4,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`counterspell-berserk`](https://github.com/thelegendofmario/counterspell-berserk) - _"This is a game where you are your own enemy. you throw swords at your enemys, only if you miss you'll eventually go crazy and die..."_ **(1 day ago)**
+- [`counterspell-berserk`](https://github.com/thelegendofmario/counterspell-berserk) - _"This is a game where you are your own enemy. you throw swords at your enemys, only if you miss you'll eventually go crazy and die..."_ **(today)**
 - [`dots`](https://github.com/kcoderhtml/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(2 days ago)**
 - [`pip`](https://github.com/kcoderhtml/pip) - _"yet another ssh pastes project"_ **(1 week ago)**
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Lua          6h 42m 51s   ███████████████████░░░░░░  72.43%
-JavaScript   51m 18s      ███░░░░░░░░░░░░░░░░░░░░░░  9.22%
-Markdown     43m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.77%
-Bash         25m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.53%
-TypeScript   10m 35s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.90%
+Lua          6h 56m 49s   ███████████████████░░░░░░  73.10%
+JavaScript   51m 18s      ███░░░░░░░░░░░░░░░░░░░░░░  9.00%
+Markdown     43m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.58%
+Bash         25m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.42%
+TypeScript   10m 35s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.86%
 ```
 
 #### 📮 Want to Contact me?
