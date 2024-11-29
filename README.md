@@ -5,13 +5,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 #### 👷 The latest repos i've pushed to
 
 - [`counterspell-berserk`](https://github.com/thelegendofmario/counterspell-berserk) - _"This is a game where you are your own enemy. you throw swords at your enemys, only if you miss you'll eventually go crazy and die..."_ **(today)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(2 days ago)**
 - [`pip`](https://github.com/taciturnaxolotl/pip) - _"yet another ssh pastes project"_ **(1 week ago)**
 - [`kreva`](https://github.com/taciturnaxolotl/kreva) - _"She comes to haunt your channels (nicely)"_ **(1 week ago)**
 - [`madbadger`](https://github.com/taciturnaxolotl/madbadger) - _"MadBadger :3"_ **(1 week ago)**
 - [`guesslang`](https://github.com/taciturnaxolotl/guesslang) - _"docker compose guesslang api server"_ **(2 weeks ago)**
-- [`riceathon`](https://github.com/hackclub/riceathon) - _"Upcoming Hack Club YSWS where you can rice your Linux desktop and submit your dotfiles to get free programmer socks"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
 
@@ -30,11 +30,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Lua          7h 15m 41s   ███████████████████░░░░░░  73.96%
-JavaScript   51m 18s      ███░░░░░░░░░░░░░░░░░░░░░░  8.71%
-Markdown     43m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.33%
-Bash         25m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.28%
-TypeScript   10m 35s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.80%
+Lua          7h 17m 41s   ██████████████████░░░░░░░  71.45%
+JavaScript   51m 18s      ███░░░░░░░░░░░░░░░░░░░░░░  8.37%
+Markdown     43m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.05%
+Bash         25m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.11%
+TypeScript   18m 9s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.96%
 ```
 
 #### 📮 Want to Contact me?
