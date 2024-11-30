@@ -4,7 +4,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(today)**
 - [`counterspell-berserk`](https://github.com/thelegendofmario/counterspell-berserk) - _"This is a game where you are your own enemy. you throw swords at your enemys, only if you miss you'll eventually go crazy and die..."_ **(1 day ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
 - [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(3 days ago)**
@@ -30,11 +30,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Lua          7h 12m 27s   ██████████████████░░░░░░░  68.63%
-CSS          1h 7m 43s    ███░░░░░░░░░░░░░░░░░░░░░░  10.75%
-Markdown     43m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.86%
-Bash         25m 11s      █░░░░░░░░░░░░░░░░░░░░░░░░  4.00%
-HTML         18m 22s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.91%
+Lua          7h 12m 27s   █████████████████░░░░░░░░  64.46%
+CSS          2h 1m 3s     █████░░░░░░░░░░░░░░░░░░░░  18.04%
+Markdown     33m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.96%
+Bash         25m 11s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.75%
+HTML         21m 31s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.21%
 ```
 
 #### 📮 Want to Contact me?
