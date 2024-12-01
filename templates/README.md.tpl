@@ -29,7 +29,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 Email: me@dunkirk.sh
-Matrix: @kieran:dumpsterfire.icu
+Slack: @krn (hackclub.com/slack)
 ```
 
 _readme auto updates on the hour via [**`kcoderhtml/markscribe`**](https://github.com/kcoderhtml/markscribe)_
