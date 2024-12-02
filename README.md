@@ -4,13 +4,13 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`counterspell-berserk`](https://github.com/thelegendofmario/counterspell-berserk) - _"This is a game where you are your own enemy. you throw swords at your enemys, only if you miss you'll eventually go crazy and die..."_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
-- [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(4 days ago)**
+- [`counterspell-berserk`](https://github.com/thelegendofmario/counterspell-berserk) - _"This is a game where you are your own enemy. you throw swords at your enemys, only if you miss you'll eventually go crazy and die..."_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(2 days ago)**
+- [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(5 days ago)**
 - [`pip`](https://github.com/taciturnaxolotl/pip) - _"yet another ssh pastes project"_ **(1 week ago)**
 - [`kreva`](https://github.com/taciturnaxolotl/kreva) - _"She comes to haunt your channels (nicely)"_ **(1 week ago)**
-- [`madbadger`](https://github.com/taciturnaxolotl/madbadger) - _"MadBadger :3"_ **(1 week ago)**
+- [`madbadger`](https://github.com/taciturnaxolotl/madbadger) - _"MadBadger :3"_ **(2 weeks ago)**
 - [`guesslang`](https://github.com/taciturnaxolotl/guesslang) - _"docker compose guesslang api server"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
@@ -30,11 +30,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Lua          5h 20m 40s   ██████████████░░░░░░░░░░░  54.63%
-CSS          2h 38m 53s   ███████░░░░░░░░░░░░░░░░░░  27.07%
-HTML         28m 30s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.86%
-Bash         25m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.29%
-TypeScript   18m 9s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.09%
+Lua          5h 10m 7s    ██████████████░░░░░░░░░░░  53.80%
+CSS          2h 38m 53s   ███████░░░░░░░░░░░░░░░░░░  27.56%
+HTML         28m 30s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.94%
+Bash         25m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.37%
+TypeScript   18m 9s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.15%
 ```
 
 #### 📮 Want to Contact me?
