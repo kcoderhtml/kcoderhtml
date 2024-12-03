@@ -4,6 +4,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
+- [`missive-auto-invites`](https://github.com/taciturnaxolotl/missive-auto-invites) - _"add users to missive via the cli"_ **(today)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 day ago)**
 - [`counterspell-berserk`](https://github.com/thelegendofmario/counterspell-berserk) - _"This is a game where you are your own enemy. you throw swords at your enemys, only if you miss you'll eventually go crazy and die..."_ **(2 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(3 days ago)**
@@ -11,7 +12,6 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 - [`pip`](https://github.com/taciturnaxolotl/pip) - _"yet another ssh pastes project"_ **(1 week ago)**
 - [`kreva`](https://github.com/taciturnaxolotl/kreva) - _"She comes to haunt your channels (nicely)"_ **(2 weeks ago)**
 - [`madbadger`](https://github.com/taciturnaxolotl/madbadger) - _"MadBadger :3"_ **(2 weeks ago)**
-- [`guesslang`](https://github.com/taciturnaxolotl/guesslang) - _"docker compose guesslang api server"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
 
