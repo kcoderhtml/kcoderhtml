@@ -4,7 +4,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(2 days ago)**
+- [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(today)**
 - [`missive-auto-invites`](https://github.com/taciturnaxolotl/missive-auto-invites) - _"add users to missive via the cli"_ **(2 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
 - [`counterspell-berserk`](https://github.com/thelegendofmario/counterspell-berserk) - _"This is a game where you are your own enemy. you throw swords at your enemys, only if you miss you'll eventually go crazy and die..."_ **(4 days ago)**
