@@ -6,9 +6,9 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 - [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(today)**
 - [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(today)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(2 days ago)**
 - [`missive-auto-invites`](https://github.com/taciturnaxolotl/missive-auto-invites) - _"add users to missive via the cli"_ **(4 days ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(4 days ago)**
 - [`counterspell-berserk`](https://github.com/thelegendofmario/counterspell-berserk) - _"This is a game where you are your own enemy. you throw swords at your enemys, only if you miss you'll eventually go crazy and die..."_ **(6 days ago)**
 - [`pip`](https://github.com/taciturnaxolotl/pip) - _"yet another ssh pastes project"_ **(2 weeks ago)**
 - [`kreva`](https://github.com/taciturnaxolotl/kreva) - _"She comes to haunt your channels (nicely)"_ **(2 weeks ago)**
@@ -30,11 +30,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript   1h 56m 29s   ██████████░░░░░░░░░░░░░░░  38.65%
-HTML         1h 28m 20s   ████████░░░░░░░░░░░░░░░░░  29.31%
-CSS          1h 8m 25s    ██████░░░░░░░░░░░░░░░░░░░  22.70%
-Lua          10m 48s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.58%
-Markdown     5m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.73%
+TypeScript   1h 58m 29s   ██████████░░░░░░░░░░░░░░░  36.97%
+HTML         1h 28m 20s   ███████░░░░░░░░░░░░░░░░░░  27.56%
+CSS          1h 8m 25s    ██████░░░░░░░░░░░░░░░░░░░  21.35%
+Lua          10m 48s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.37%
+Markdown     10m 46s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.36%
 ```
 
 #### 📮 Want to Contact me?
