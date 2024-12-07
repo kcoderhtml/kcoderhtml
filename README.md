@@ -4,7 +4,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(1 day ago)**
+- [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(today)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(2 days ago)**
 - [`missive-auto-invites`](https://github.com/taciturnaxolotl/missive-auto-invites) - _"add users to missive via the cli"_ **(4 days ago)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(4 days ago)**
@@ -30,11 +30,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-CSS          2h 58m 40s   ███████████░░░░░░░░░░░░░░  43.39%
-HTML         1h 47m 59s   ███████░░░░░░░░░░░░░░░░░░  26.22%
-TypeScript   1h 34m 51s   ██████░░░░░░░░░░░░░░░░░░░  23.03%
-Lua          10m 48s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.62%
-Markdown     9m 50s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.39%
+CSS          2h 30m 10s   ██████████░░░░░░░░░░░░░░░  38.64%
+TypeScript   1h 54m 13s   ████████░░░░░░░░░░░░░░░░░  29.39%
+HTML         1h 31m 31s   ██████░░░░░░░░░░░░░░░░░░░  23.55%
+Lua          10m 48s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.78%
+Markdown     9m 50s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.53%
 ```
 
 #### 📮 Want to Contact me?
