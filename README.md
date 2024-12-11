@@ -4,14 +4,14 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
+- [`extensions`](https://github.com/zed-industries/extensions) - _"Extensions for the Zed editor"_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(4 days ago)**
+- [`thorn`](https://github.com/taciturnaxolotl/thorn) - _""_ **(4 days ago)**
 - [`kreva-template`](https://github.com/taciturnaxolotl/kreva-template) - _"a quirky slackbot template"_ **(4 days ago)**
 - [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(4 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(6 days ago)**
 - [`missive-auto-invites`](https://github.com/taciturnaxolotl/missive-auto-invites) - _"add users to missive via the cli"_ **(1 week ago)**
-- [`counterspell-berserk`](https://github.com/thelegendofmario/counterspell-berserk) - _"This is a game where you are your own enemy. you throw swords at your enemys, only if you miss you'll eventually go crazy and die..."_ **(1 week ago)**
-- [`pip`](https://github.com/taciturnaxolotl/pip) - _"yet another ssh pastes project"_ **(2 weeks ago)**
 
 #### ⌨️ My latest projects
 
