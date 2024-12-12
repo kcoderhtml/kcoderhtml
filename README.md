@@ -5,12 +5,12 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 #### 👷 The latest repos i've pushed to
 
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
+- [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(today)**
 - [`carriage`](https://github.com/taciturnaxolotl/carriage) - _""_ **(today)**
 - [`extensions`](https://github.com/zed-industries/extensions) - _"Extensions for the Zed editor"_ **(1 day ago)**
-- [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(5 days ago)**
+- [`kreva-template`](https://github.com/taciturnaxolotl/kreva-template) - _"a quirky slackbot template"_ **(5 days ago)**
 - [`thorn`](https://github.com/taciturnaxolotl/thorn) - _""_ **(5 days ago)**
 - [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(5 days ago)**
-- [`kreva-template`](https://github.com/taciturnaxolotl/kreva-template) - _"a quirky slackbot template"_ **(5 days ago)**
 - [`zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
@@ -30,11 +30,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript     1h 3m 54s   ███████░░░░░░░░░░░░░░░░░░  25.78%
-Markdown       49m 45s     ██████░░░░░░░░░░░░░░░░░░░  20.07%
-JavaScript     38m 18s     ████░░░░░░░░░░░░░░░░░░░░░  15.45%
-Rust           28m 24s     ███░░░░░░░░░░░░░░░░░░░░░░  11.46%
-JSON           17m 27s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.04%
+TypeScript     1h 4m 46s   ███████░░░░░░░░░░░░░░░░░░  24.74%
+Markdown       59m 29s     ██████░░░░░░░░░░░░░░░░░░░  22.72%
+JavaScript     38m 18s     ████░░░░░░░░░░░░░░░░░░░░░  14.63%
+Rust           28m 24s     ███░░░░░░░░░░░░░░░░░░░░░░  10.85%
+JSON           17m 27s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.67%
 ```
 
 #### 📮 Want to Contact me?
