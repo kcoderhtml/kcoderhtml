@@ -32,4 +32,4 @@ Email: me@dunkirk.sh
 Slack: @krn (hackclub.com/slack)
 ```
 
-_readme auto updates on the hour via [**`kcoderhtml/markscribe`**](https://github.com/kcoderhtml/markscribe)_
+_readme auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
