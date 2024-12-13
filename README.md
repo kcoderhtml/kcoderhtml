@@ -15,6 +15,10 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### ⌨️ My latest projects
 
+- [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_
+- [`thorn`](https://github.com/taciturnaxolotl/thorn) - _""_
+- [`madbadger`](https://github.com/taciturnaxolotl/madbadger) - _"MadBadger :3"_
+- [`guesslang`](https://github.com/taciturnaxolotl/guesslang) - _"docker compose guesslang api server"_
 
 #### 🍿 my latest videos hot off the yt rss feed
 
@@ -30,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Markdown       1h 49m 1s   █████████░░░░░░░░░░░░░░░░  33.43%
-TypeScript     1h 9m 5s    ██████░░░░░░░░░░░░░░░░░░░  21.18%
-JavaScript     38m 18s     ███░░░░░░░░░░░░░░░░░░░░░░  11.74%
-Rust           28m 24s     ███░░░░░░░░░░░░░░░░░░░░░░  8.71%
-JSON           17m 27s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.35%
+Markdown       1h 51m 1s   █████████░░░░░░░░░░░░░░░░  33.63%
+TypeScript     1h 9m 5s    ██████░░░░░░░░░░░░░░░░░░░  20.93%
+JavaScript     38m 18s     ███░░░░░░░░░░░░░░░░░░░░░░  11.60%
+Rust           28m 24s     ███░░░░░░░░░░░░░░░░░░░░░░  8.60%
+JSON           17m 27s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.29%
 ```
 
 #### 📮 Want to Contact me?
