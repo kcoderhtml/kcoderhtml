@@ -22,11 +22,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 🍿 my latest videos hot off the yt rss feed
 
+- [`Working on Cachet (Coding stream no. 3)`](https://www.youtube.com/watch?v=_aJOCekWxIY) **(today)**
+
 - [`I got bored #3dprinting`](https://www.youtube.com/watch?v=59f5n1NeItE) **(2 days ago)**
 
 - [`A Matrix that couldn't play`](https://www.youtube.com/watch?v=NodwjZF7uZw) **(1 month ago)**
-
-- [`Hackatime how to!`](https://www.youtube.com/watch?v=eKoD9yyr1To) **(2 months ago)**
 
 
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Markdown       1h 55m 20s   █████████░░░░░░░░░░░░░░░░  33.53%
-TypeScript     1h 9m 5s     ██████░░░░░░░░░░░░░░░░░░░  20.09%
-JavaScript     38m 18s      ███░░░░░░░░░░░░░░░░░░░░░░  11.14%
-Rust           28m 24s      ███░░░░░░░░░░░░░░░░░░░░░░  8.26%
-JSON           17m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.07%
+Markdown       1h 58m 50s   ████████░░░░░░░░░░░░░░░░░  31.15%
+TypeScript     1h 38m 50s   ███████░░░░░░░░░░░░░░░░░░  25.91%
+JavaScript     38m 18s      ███░░░░░░░░░░░░░░░░░░░░░░  10.04%
+Rust           28m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.44%
+JSON           18m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.76%
 ```
 
 #### 📮 Want to Contact me?
