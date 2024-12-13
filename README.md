@@ -4,12 +4,12 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
-- [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(1 day ago)**
+- [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(today)**
 - [`.github`](https://github.com/taciturnaxolotl/.github) - _"github config files"_ **(1 day ago)**
 - [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
+- [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(1 day ago)**
 - [`extensions`](https://github.com/zed-industries/extensions) - _"Extensions for the Zed editor"_ **(2 days ago)**
-- [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(6 days ago)**
 - [`kreva-template`](https://github.com/taciturnaxolotl/kreva-template) - _"a quirky slackbot template"_ **(6 days ago)**
 - [`thorn`](https://github.com/taciturnaxolotl/thorn) - _""_ **(6 days ago)**
 
