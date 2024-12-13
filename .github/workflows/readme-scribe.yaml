@@ -12,7 +12,10 @@ jobs:
     steps:
       - uses: actions/checkout@master
 
-      - run: go install github.com/taciturnaxolotl/markscribe@hacky
+      - uses: 'github.com/actions-go/go-install@main'
+        with:
+          module: "github.com/taciturnaxolotl/markscribe@hacky"
+
       - name: generate readme
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
