@@ -5,20 +5,20 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 #### 👷 The latest repos i've pushed to
 
 - [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(today)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(today)**
 - [`.github`](https://github.com/taciturnaxolotl/.github) - _"github config files"_ **(1 day ago)**
 - [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(1 day ago)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`extensions`](https://github.com/zed-industries/extensions) - _"Extensions for the Zed editor"_ **(2 days ago)**
 - [`kreva-template`](https://github.com/taciturnaxolotl/kreva-template) - _"a quirky slackbot template"_ **(6 days ago)**
-- [`thorn`](https://github.com/taciturnaxolotl/thorn) - _"macos special characters on linux"_ **(6 days ago)**
 
 #### ⌨️ My latest projects
 
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_
 - [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_
 - [`thorn`](https://github.com/taciturnaxolotl/thorn) - _"macos special characters on linux"_
 - [`madbadger`](https://github.com/taciturnaxolotl/madbadger) - _"MadBadger :3"_
-- [`guesslang`](https://github.com/taciturnaxolotl/guesslang) - _"docker compose guesslang api server"_
 
 #### 🍿 my latest videos hot off the yt rss feed
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-Markdown       1h 51m 1s   █████████░░░░░░░░░░░░░░░░  33.07%
-TypeScript     1h 9m 5s    ██████░░░░░░░░░░░░░░░░░░░  20.58%
-JavaScript     38m 18s     ███░░░░░░░░░░░░░░░░░░░░░░  11.41%
-Rust           28m 24s     ███░░░░░░░░░░░░░░░░░░░░░░  8.46%
-JSON           17m 27s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.20%
+Markdown       1h 55m 20s   █████████░░░░░░░░░░░░░░░░  33.53%
+TypeScript     1h 9m 5s     ██████░░░░░░░░░░░░░░░░░░░  20.09%
+JavaScript     38m 18s      ███░░░░░░░░░░░░░░░░░░░░░░  11.14%
+Rust           28m 24s      ███░░░░░░░░░░░░░░░░░░░░░░  8.26%
+JSON           17m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.07%
 ```
 
 #### 📮 Want to Contact me?
