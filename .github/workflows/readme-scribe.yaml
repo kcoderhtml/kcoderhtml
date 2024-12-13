@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@master
 
-      - run: go install github.com/taciturnaxoltol/markscribe@hacky
+      - run: go install github.com/taciturnaxolotl/markscribe@hacky
       - name: generate readme
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
