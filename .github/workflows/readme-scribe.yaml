@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@master
 
-      - uses: 'github.com/actions-go/go-install@main'
+      - uses: 'actions-go/go-install@main'
         with:
           module: "github.com/taciturnaxolotl/markscribe@hacky"
 
