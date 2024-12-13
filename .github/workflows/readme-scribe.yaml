@@ -13,6 +13,7 @@ jobs:
       - uses: actions/checkout@master
 
       - uses: 'actions-go/go-install@main'
+        id: install
         with:
           module: "github.com/taciturnaxolotl/markscribe@hacky"
 
@@ -21,7 +22,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           WAKATIME_URL: ${{ secrets.WAKATIME_URL }}
-        run: ~/go/bin/markscribe -write README.md templates/README.md.tpl
+        run: ${{ steps.install.outputs.install-path }} -write README.md templates/README.md.tpl
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         env:
