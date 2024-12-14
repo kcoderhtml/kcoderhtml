@@ -7,8 +7,8 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(today)**
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(1 day ago)**
-- [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(2 days ago)**
 - [`.github`](https://github.com/taciturnaxolotl/.github) - _"github config files"_ **(2 days ago)**
+- [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(2 days ago)**
 - [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(2 days ago)**
 - [`extensions`](https://github.com/zed-industries/extensions) - _"Extensions for the Zed editor"_ **(3 days ago)**
 - [`kreva-template`](https://github.com/taciturnaxolotl/kreva-template) - _"a quirky slackbot template"_ **(1 week ago)**
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript     2h 45m 8s    █████████░░░░░░░░░░░░░░░░  35.34%
-Markdown       1h 59m 44s   ███████░░░░░░░░░░░░░░░░░░  25.63%
-JavaScript     38m 18s      ███░░░░░░░░░░░░░░░░░░░░░░  8.20%
-Rust           28m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.08%
-typescript     20m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.48%
+TypeScript     3h 14m 12s   ██████████░░░░░░░░░░░░░░░  39.19%
+Markdown       1h 59m 44s   ███████░░░░░░░░░░░░░░░░░░  24.16%
+JavaScript     38m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.73%
+Rust           28m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.73%
+typescript     20m 58s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.23%
 ```
 
 #### 📮 Want to Contact me?
