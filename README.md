@@ -11,7 +11,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 - [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(2 days ago)**
 - [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(2 days ago)**
 - [`extensions`](https://github.com/zed-industries/extensions) - _"Extensions for the Zed editor"_ **(3 days ago)**
-- [`kreva-template`](https://github.com/taciturnaxolotl/kreva-template) - _"a quirky slackbot template"_ **(1 week ago)**
+- [`thorn`](https://github.com/taciturnaxolotl/thorn) - _"macos special characters on linux"_ **(1 week ago)**
 
 #### ⌨️ My latest projects
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript     3h 18m 31s   ██████████░░░░░░░░░░░░░░░  37.38%
-Markdown       1h 59m 44s   ██████░░░░░░░░░░░░░░░░░░░  22.54%
-JavaScript     54m 54s      ███░░░░░░░░░░░░░░░░░░░░░░  10.34%
-Rust           28m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.35%
-typescript     25m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.81%
+TypeScript     3h 43m 16s   ██████████░░░░░░░░░░░░░░░  38.81%
+Markdown       1h 59m 44s   ██████░░░░░░░░░░░░░░░░░░░  20.81%
+JavaScript     1h 9m 18s    ████░░░░░░░░░░░░░░░░░░░░░  12.04%
+Rust           28m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.94%
+typescript     27m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.86%
 ```
 
 #### 📮 Want to Contact me?
