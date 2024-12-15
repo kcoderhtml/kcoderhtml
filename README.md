@@ -8,8 +8,8 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
 - [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(2 days ago)**
 - [`.github`](https://github.com/taciturnaxolotl/.github) - _"github config files"_ **(3 days ago)**
-- [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(3 days ago)**
 - [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(3 days ago)**
+- [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(3 days ago)**
 - [`extensions`](https://github.com/zed-industries/extensions) - _"Extensions for the Zed editor"_ **(4 days ago)**
 - [`thorn`](https://github.com/taciturnaxolotl/thorn) - _"macos special characters on linux"_ **(1 week ago)**
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript     4h 38m 11s   ███████████░░░░░░░░░░░░░░  42.30%
-Markdown       2h 41m 41s   ███████░░░░░░░░░░░░░░░░░░  24.58%
-JavaScript     1h 9m 18s    ███░░░░░░░░░░░░░░░░░░░░░░  10.54%
-typescript     29m 40s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.51%
-JSON           27m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.25%
+TypeScript     4h 52m 30s   ███████████░░░░░░░░░░░░░░  42.96%
+Markdown       2h 41m 41s   ██████░░░░░░░░░░░░░░░░░░░  23.75%
+JavaScript     1h 9m 18s    ███░░░░░░░░░░░░░░░░░░░░░░  10.18%
+typescript     32m 8s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.72%
+JSON           27m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.10%
 ```
 
 #### 📮 Want to Contact me?
