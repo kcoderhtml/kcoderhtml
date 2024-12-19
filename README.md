@@ -5,7 +5,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 #### 👷 The latest repos i've pushed to
 
 - [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(today)**
-- [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(1 day ago)**
+- [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(today)**
 - [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(3 days ago)**
 - [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(1 week ago)**
 - [`.github`](https://github.com/taciturnaxolotl/.github) - _"github config files"_ **(1 week ago)**
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript     6h 26m 14s   ████████████░░░░░░░░░░░░░  46.27%
-Markdown       2h 37m 57s   █████░░░░░░░░░░░░░░░░░░░░  18.92%
-Nix            1h 14m 13s   ███░░░░░░░░░░░░░░░░░░░░░░  8.89%
-typescript     44m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.33%
-JavaScript     31m 7s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.73%
+TypeScript     6h 26m 14s   ████████████░░░░░░░░░░░░░  47.48%
+Markdown       2h 16m 40s   █████░░░░░░░░░░░░░░░░░░░░  16.80%
+Nix            1h 14m 13s   ███░░░░░░░░░░░░░░░░░░░░░░  9.12%
+typescript     44m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.47%
+JavaScript     31m 7s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.83%
 ```
 
 #### 📮 Want to Contact me?
