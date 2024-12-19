@@ -4,12 +4,12 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 #### 👷 The latest repos i've pushed to
 
-- [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(today)**
-- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(1 day ago)**
-- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(2 days ago)**
-- [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(6 days ago)**
-- [`.github`](https://github.com/taciturnaxolotl/.github) - _"github config files"_ **(6 days ago)**
-- [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(6 days ago)**
+- [`high-seas`](https://github.com/hackclub/high-seas) - _"🏴‍☠️ It's better to be a pirate than join the navy!"_ **(1 day ago)**
+- [`dots`](https://github.com/taciturnaxolotl/dots) - _"Kieran's opinionated (and probably slightly dumb) nix config"_ **(2 days ago)**
+- [`cachet`](https://github.com/taciturnaxolotl/cachet) - _"a cache for slack profile pictures and emojis"_ **(3 days ago)**
+- [`carriage`](https://github.com/taciturnaxolotl/carriage) - _"@taciturnaxolotl's repo template"_ **(1 week ago)**
+- [`.github`](https://github.com/taciturnaxolotl/.github) - _"github config files"_ **(1 week ago)**
+- [`hackatime-scripts`](https://github.com/taciturnaxolotl/hackatime-scripts) - _"various migration and utility scripts that keep hackatime afloat"_ **(1 week ago)**
 - [`extensions`](https://github.com/zed-industries/extensions) - _"Extensions for the Zed editor"_ **(1 week ago)**
 - [`kreva-template`](https://github.com/taciturnaxolotl/kreva-template) - _"a quirky slackbot template"_ **(1 week ago)**
 
@@ -34,11 +34,11 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 
 ```text
 💾 Languages:
-TypeScript     6h 27m 35s   █████████████░░░░░░░░░░░░  49.88%
-Markdown       2h 38m 30s   ██████░░░░░░░░░░░░░░░░░░░  20.40%
-JavaScript     1h 9m 25s    ███░░░░░░░░░░░░░░░░░░░░░░  8.93%
-typescript     46m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.00%
-JSON           14m 47s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.90%
+TypeScript     6h 27m 23s   █████████████░░░░░░░░░░░░  50.65%
+Markdown       2h 38m 30s   ██████░░░░░░░░░░░░░░░░░░░  20.72%
+typescript     44m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.82%
+JavaScript     42m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.56%
+JSON           14m 47s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.93%
 ```
 
 #### 📮 Want to Contact me?
